@@ -1,7 +1,2540 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "In this section: 3.1 Foundation MLLMs · 3.2 Omni MLLMs\nModels that connect a pretrained visual encoder / abstractor to a pretrained LLM. Primarily text-output understanding and reasoning systems, defined by inherited pretrained unimodal backbones rather than multimodal pretraining from scratch.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe",
+                  "description": "arXiv 2025 Paper Code Model Efficient 8B MLLM built with Qwen3-8B, SigLIP2-400M and a unified 3D-Resampler for compact image-video encoding visual understanding, document/OCR, video understanding, edge deployment",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 749647889,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T06:17:31Z",
+                    "owner": "OpenBMB",
+                    "repo": "MiniCPM-V",
+                    "stars": 26222
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PaddleOCR-VL",
+                  "description": "arXiv 2025 HF / Official Lightweight (0.9B+) multimodal OCR with 109 languages support; excellent chart-to-HTML/Markdown conversion and high-throughput OCR, multilingual document",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 262296122,
+                    "language": "Python",
+                    "last_commit": "2026-07-22T11:59:34Z",
+                    "owner": "PaddlePaddle",
+                    "repo": "PaddleOCR",
+                    "stars": 88215
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Molmo / PixMo",
+                  "description": "CVPR 2025 Paper Code Strong open-data/open-weight VLM pipeline visual understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 899141748,
+                    "language": "Python",
+                    "last_commit": "2024-12-12T17:37:41Z",
+                    "owner": "allenai",
+                    "repo": "molmo",
+                    "stars": 928
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "General OCR Theory: Towards OCR-2.0 via a Unified End-to-end Model",
+                  "description": "arXiv 2024 Paper HF/Code Specialized end-to-end OCR model with grounding (boxes + points); strong on scientific papers, slides, and mixed visual-text docs OCR, grounding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 850919564,
+                    "language": "Python",
+                    "last_commit": "2025-02-10T12:13:00Z",
+                    "owner": "Ucas-HaoranWei",
+                    "repo": "GOT-OCR2.0",
+                    "stars": 8214
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLaVA-OneVision: Easy Visual Task Transfer",
+                  "description": "arXiv 2024 Paper Code Single model for image, multi-image, and video transfer visual understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 769149672,
+                    "language": "Python",
+                    "last_commit": "2026-06-15T06:32:49Z",
+                    "owner": "LLaVA-VL",
+                    "repo": "LLaVA-NeXT",
+                    "stars": 4715
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MiniCPM-V: A GPT-4V Level MLLM on Your Phone",
+                  "description": "arXiv 2024 Paper Code On-device efficient MLLM visual understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 749647889,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T06:17:31Z",
+                    "owner": "OpenBMB",
+                    "repo": "MiniCPM-V",
+                    "stars": 26222
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models",
+                  "description": "arXiv 2024 Paper Code MoE VLM with dynamic tiling and efficient inference visual understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 902697574,
+                    "language": "Python",
+                    "last_commit": "2025-02-26T05:03:42Z",
+                    "owner": "deepseek-ai",
+                    "repo": "DeepSeek-VL2",
+                    "stars": 5372
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cambrian-1: A Fully Open, Vision-Centric Exploration",
+                  "description": "NeurIPS 2024 Paper Code Spatial Vision Aggregator visual understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 816163847,
+                    "language": "Python",
+                    "last_commit": "2025-11-07T03:26:25Z",
+                    "owner": "cambrian-mllm",
+                    "repo": "cambrian",
+                    "stars": 2013
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "InternLM-XComposer2",
+                  "description": "arXiv 2024 Paper Code Compositional visual grounding visual understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 696572451,
+                    "language": "Python",
+                    "last_commit": "2025-05-26T15:59:34Z",
+                    "owner": "InternLM",
+                    "repo": "InternLM-XComposer",
+                    "stars": 2925
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "InternVL: Scaling up Vision Foundation Models",
+                  "description": "CVPR 2024 Paper Code Progressively aligned ViT + LLM visual understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 721995615,
+                    "language": "Python",
+                    "last_commit": "2025-09-22T01:36:48Z",
+                    "owner": "OpenGVLab",
+                    "repo": "InternVL",
+                    "stars": 10142
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ovis: Structural Embedding Alignment for Multimodal Large Language Model",
+                  "description": "arXiv 2024 Paper Code Structural embedding alignment between visual tokens and LLM token space visual understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 814502811,
+                    "language": "Python",
+                    "last_commit": "2026-07-15T14:04:16Z",
+                    "owner": "ATH-MaaS",
+                    "repo": "Ovis",
+                    "stars": 1511
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document",
+                  "description": "arXiv 2024 Paper Code OCR-free document MLLM emphasizing text-heavy images document understanding, OCR",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 716626889,
+                    "language": "Python",
+                    "last_commit": "2026-06-02T01:58:53Z",
+                    "owner": "Yuliang-Liu",
+                    "repo": "Monkey",
+                    "stars": 1951
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MoE-LLaVA: Mixture of Experts for Large Vision-Language Models",
+                  "description": "arXiv 2024 Paper Code Sparse MoE extension of LLaVA-style visual instruction tuning visual understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 731413021,
+                    "language": "Python",
+                    "last_commit": "2025-07-15T07:59:33Z",
+                    "owner": "PKU-YuanGroup",
+                    "repo": "MoE-LLaVA",
+                    "stars": 2322
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices",
+                  "description": "arXiv 2023 Paper Code Lightweight VLM for mobile deployment efficient visual assistant",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 736844434,
+                    "language": "Python",
+                    "last_commit": "2024-04-15T03:53:45Z",
+                    "owner": "Meituan-AutoML",
+                    "repo": "MobileVLM",
+                    "stars": 1370
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models",
+                  "description": "arXiv 2023 Paper Code Expands visual vocabulary for dense OCR/document-style perception document understanding, OCR",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 728602788,
+                    "language": "Python",
+                    "last_commit": "2024-12-30T07:43:26Z",
+                    "owner": "Ucas-HaoranWei",
+                    "repo": "Vary",
+                    "stars": 1889
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models",
+                  "description": "arXiv 2023 Paper Code Compresses each frame/image into compact context tokens for efficient video MLLMs video understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 724542698,
+                    "language": "Python",
+                    "last_commit": "2024-07-29T10:27:42Z",
+                    "owner": "JIA-Lab-research",
+                    "repo": "LLaMA-VID",
+                    "stars": 861
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Video-LLaVA: Learning United Visual Representation by Alignment Before Projection",
+                  "description": "arXiv 2023 Paper Code Unified image-video representation before projection into LLM image/video understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 708655533,
+                    "language": "Python",
+                    "last_commit": "2024-12-03T02:58:46Z",
+                    "owner": "PKU-YuanGroup",
+                    "repo": "Video-LLaVA",
+                    "stars": 3499
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GLaMM: Pixel Grounding Large Multimodal Model",
+                  "description": "arXiv 2023 Paper Code Pixel-level grounding and phrase-region reasoning grounded visual understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 713507196,
+                    "language": "Python",
+                    "last_commit": "2025-08-05T01:13:15Z",
+                    "owner": "mbzuai-oryx",
+                    "repo": "groundingLMM",
+                    "stars": 966
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ferret: Refer and Ground Anything Anywhere at Any Granularity",
+                  "description": "arXiv 2023 Paper Code Referring and grounding across points, boxes, and free-form regions grounded visual dialogue",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 701540574,
+                    "language": "Python",
+                    "last_commit": "2024-10-09T02:40:44Z",
+                    "owner": "apple",
+                    "repo": "ml-ferret",
+                    "stars": 8674
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLaVA-1.5: Improved Baselines with Visual Instruction Tuning",
+                  "description": "arXiv 2023 Paper Code Strong simple baseline with CLIP visual encoder, MLP projector, and instruction tuning visual instruction tuning",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 629102662,
+                    "language": "Python",
+                    "last_commit": "2024-08-12T09:52:38Z",
+                    "owner": "haotian-liu",
+                    "repo": "LLaVA",
+                    "stars": 25000
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment",
+                  "description": "arXiv 2023 Paper Code Language-centered alignment across image, video, audio, depth, thermal, and IMU modalities multimodal alignment",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 699285749,
+                    "language": "Python",
+                    "last_commit": "2024-03-25T12:28:38Z",
+                    "owner": "PKU-YuanGroup",
+                    "repo": "LanguageBind",
+                    "stars": 885
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ImageBind-LLM: Multi-modality Instruction Tuning",
+                  "description": "arXiv 2023 Paper Code Connects ImageBind-aligned modalities to an LLM for multi-modality instruction following multi-modal instruction tuning",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 616083282,
+                    "language": "Python",
+                    "last_commit": "2024-03-14T08:12:53Z",
+                    "owner": "OpenGVLab",
+                    "repo": "LLaMA-Adapter",
+                    "stars": 5914
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PointLLM: Empowering Large Language Models to Understand Point Clouds",
+                  "description": "arXiv 2023 Paper Code Extends LLM-based multimodal understanding to 3D point clouds 3D understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 679564879,
+                    "language": "Python",
+                    "last_commit": "2026-05-15T07:35:59Z",
+                    "owner": "InternRobotics",
+                    "repo": "PointLLM",
+                    "stars": 1050
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LISA: Reasoning Segmentation via Large Language Model",
+                  "description": "arXiv 2023 Paper Code Couples MLLM reasoning with segmentation mask output reasoning segmentation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 673431525,
+                    "language": "Python",
+                    "last_commit": "2025-02-16T13:33:08Z",
+                    "owner": "JIA-Lab-research",
+                    "repo": "LISA",
+                    "stars": 2672
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest",
+                  "description": "arXiv 2023 Paper Code Region-of-interest instruction tuning for fine-grained visual reasoning region-level understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 663121272,
+                    "language": "Python",
+                    "last_commit": "2025-06-03T20:23:02Z",
+                    "owner": "jshilong",
+                    "repo": "GPT4RoI",
+                    "stars": 554
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "3D-LLM: Injecting the 3D World into Large Language Models",
+                  "description": "arXiv 2023 Paper Code Projects 3D scene features into LLMs for 3D reasoning and dialogue 3D understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 670231330,
+                    "language": "Python",
+                    "last_commit": "2024-06-06T19:14:00Z",
+                    "owner": "UMass-Embodied-AGI",
+                    "repo": "3D-LLM",
+                    "stars": 1211
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic",
+                  "description": "arXiv 2023 Paper Code Referential dialogue with natural-language coordinates and grounding grounded visual dialogue",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 658847441,
+                    "language": "Python",
+                    "last_commit": "2024-07-08T16:14:12Z",
+                    "owner": "shikras",
+                    "repo": "shikra",
+                    "stars": 816
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day",
+                  "description": "arXiv 2023 Paper Code Biomedical adaptation of LLaVA-style visual instruction tuning biomedical visual assistant",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 643298473,
+                    "language": "Python",
+                    "last_commit": "2025-06-04T15:56:12Z",
+                    "owner": "microsoft",
+                    "repo": "LLaVA-Med",
+                    "stars": 2229
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DetGPT: Detect What You Need via Reasoning",
+                  "description": "arXiv 2023 Paper Code Uses LLM reasoning to orchestrate detection tools and visual grounding detection reasoning",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 637920281,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-08-07T14:49:11Z",
+                    "owner": "OptimalScale",
+                    "repo": "DetGPT",
+                    "stars": 784
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks",
+                  "description": "arXiv 2023 Paper Code Treats vision-centric tasks as open-ended decoding with LLMs vision-centric decoding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 642332004,
+                    "language": "Python",
+                    "last_commit": "2025-02-27T08:31:04Z",
+                    "owner": "OpenGVLab",
+                    "repo": "VisionLLM",
+                    "stars": 1153
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MultiModal-GPT: A Vision and Language Model for Dialogue with Humans",
+                  "description": "arXiv 2023 Paper Code Instruction-tuned image-text dialogue model visual dialogue",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 632871496,
+                    "language": "Python",
+                    "last_commit": "2023-06-04T01:42:37Z",
+                    "owner": "open-mmlab",
+                    "repo": "Multimodal-GPT",
+                    "stars": 1511
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model",
+                  "description": "arXiv 2023 Paper Code Parameter-efficient visual instruction tuning via adapters visual instruction tuning",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 616083282,
+                    "language": "Python",
+                    "last_commit": "2024-03-14T08:12:53Z",
+                    "owner": "OpenGVLab",
+                    "repo": "LLaMA-Adapter",
+                    "stars": 5914
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention",
+                  "description": "arXiv 2023 Paper Code Early adapter-based multimodal instruction tuning on LLaMA visual instruction tuning",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 616083282,
+                    "language": "Python",
+                    "last_commit": "2024-03-14T08:12:53Z",
+                    "owner": "OpenGVLab",
+                    "repo": "LLaMA-Adapter",
+                    "stars": 5914
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLaVA",
+                  "description": "arXiv 2023 Paper Code 7B / 13B+ CLIP vision encoder (frozen/pretrained) + linear projection to LLM (Vicuna/LLaMA); common late-fusion baseline visual instruction tuning, VQA, image captioning",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 629102662,
+                    "language": "Python",
+                    "last_commit": "2024-08-12T09:52:38Z",
+                    "owner": "haotian-liu",
+                    "repo": "LLaVA",
+                    "stars": 25000
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "MLP/Others Projector"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding",
+                  "description": "arXiv 2023 Paper Code BLIP-2/Q-Former-style visual and audio query transformers for video dialogue audio-video understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 637126931,
+                    "language": "Python",
+                    "last_commit": "2024-06-04T07:06:41Z",
+                    "owner": "DAMO-NLP-SG",
+                    "repo": "Video-LLaMA",
+                    "stars": 3139
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning",
+                  "description": "arXiv 2023 Paper Code Instruction-aware Q-Former trained over diverse vision-language tasks visual instruction tuning",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 528238131,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-06-02T18:14:49Z",
+                    "owner": "salesforce",
+                    "repo": "LAVIS",
+                    "stars": 11261
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VideoChat: Chat-Centric Video Understanding",
+                  "description": "arXiv 2023 Paper Code Video-centric MLLM for temporal dialogue and understanding video understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 629922458,
+                    "language": "Python",
+                    "last_commit": "2026-07-17T10:31:09Z",
+                    "owner": "OpenGVLab",
+                    "repo": "Ask-Anything",
+                    "stars": 3346
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality",
+                  "description": "arXiv 2023 Paper Code Modular visual abstractor connected to a pretrained LLM visual instruction tuning",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 632244130,
+                    "language": "Python",
+                    "last_commit": "2025-04-02T12:30:45Z",
+                    "owner": "X-PLUG",
+                    "repo": "mPLUG-Owl",
+                    "stars": 2539
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models",
+                  "description": "arXiv 2023 Paper Code Uses BLIP-2 visual encoder/Q-Former and aligns visual features to Vicuna visual dialogue",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 628419800,
+                    "language": "Python",
+                    "last_commit": "2024-09-02T09:07:21Z",
+                    "owner": "Vision-CAIR",
+                    "repo": "MiniGPT-4",
+                    "stars": 25627
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+                  "description": "ICML 2023 Paper Code Foundational Q-Former architecture bridging frozen vision encoders and frozen LLMs vision-language pretraining",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 528238131,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-06-02T18:14:49Z",
+                    "owner": "salesforce",
+                    "repo": "LAVIS",
+                    "stars": 11261
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Q-Former"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CogVLM: Visual Expert for Pretrained Language Models",
+                  "description": "arXiv 2023 Paper Code Deep fusion with visual expert modules inside a pretrained LLM visual understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 692935244,
+                    "language": "Python",
+                    "last_commit": "2024-05-29T10:01:33Z",
+                    "owner": "zai-org",
+                    "repo": "CogVLM",
+                    "stars": 6743
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kosmos-2: Grounding Multimodal Large Language Models to the World",
+                  "description": "arXiv 2023 Paper Code Adds grounded phrase-region modeling to multimodal language modeling grounded visual understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 198350484,
+                    "language": "Python",
+                    "last_commit": "2026-01-23T04:09:35Z",
+                    "owner": "microsoft",
+                    "repo": "unilm",
+                    "stars": 22195
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kosmos-1: Language Is Not All You Need: Aligning Perception with Language Models",
+                  "description": "arXiv 2023 Paper Code Perception-language model aligning images and language for multimodal reasoning multimodal reasoning",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 198350484,
+                    "language": "Python",
+                    "last_commit": "2026-01-23T04:09:35Z",
+                    "owner": "microsoft",
+                    "repo": "unilm",
+                    "stars": 22195
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cross-Attention"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "EXAONE 4.5 Technical Report",
+                  "description": "arXiv 2026 Paper Code Integrates a dedicated visual encoder with the EXAONE 4.0 framework for multimodal pretraining, with strong document understanding and Korean contextual reasoning visual understanding, document",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1204476760,
+                    "language": null,
+                    "last_commit": "2026-07-06T07:22:39Z",
+                    "owner": "LG-AI-EXAONE",
+                    "repo": "EXAONE-4.5",
+                    "stars": 46
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "mPLUG-Owl3",
+                  "description": "arXiv 2024 Paper Code Long visual sequences visual understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 632244130,
+                    "language": "Python",
+                    "last_commit": "2025-04-02T12:30:45Z",
+                    "owner": "X-PLUG",
+                    "repo": "mPLUG-Owl",
+                    "stars": 2539
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "mPLUG-DocOwl 1.5 / 2: Unified Structure Learning for OCR-free Document Understanding",
+                  "description": "arXiv 2024 Paper Code OCR-free document understanding with unified structure learning; excels at long documents and complex layouts document understanding, OCR",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 661919338,
+                    "language": "Python",
+                    "last_commit": "2025-05-30T05:52:43Z",
+                    "owner": "X-PLUG",
+                    "repo": "mPLUG-DocOwl",
+                    "stars": 2410
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Hybrid Adaptor"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3.1 Taxonomy Based on Vision Adapter"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction",
+              "description": "arXiv 2026 Paper Code Model 9B edge-oriented omni model using Omni-Flow for simultaneous visual/audio perception and speech response; supports proactive full-duplex interaction with less than 12GB memory vision-language understanding, audio understanding, speech generation, full-duplex live interaction Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 749647889,
+                "language": "Python",
+                "last_commit": "2026-08-24T06:17:31Z",
+                "owner": "OpenBMB",
+                "repo": "MiniCPM-V",
+                "stars": 26222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence",
+              "description": "arXiv 2026 Paper Code Efficiency-optimized omni-modal backbone using Hybrid Mamba2-Transformer MoE; supports massive multi-modal contexts (10k+ tokens) for long-video reasoning and agentic GUI navigation on edge devices omni-modal understanding & reasoning Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 949546994,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:24:40Z",
+                "owner": "NVIDIA-NeMo",
+                "repo": "RL",
+                "stars": 1951
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OmniGAIA: Towards Native Omni-Modal AI Agents",
+              "description": "arXiv 2026 Paper Code Comprehensive benchmark for omni-modal agents with complex multi-hop queries across video, audio, and image; includes OmniAtlas agent with tool-integrated reasoning omni-modal understanding & reasoning Native",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1138005725,
+                "language": "Python",
+                "last_commit": "2026-04-02T09:56:08Z",
+                "owner": "RUC-NLPIR",
+                "repo": "OmniGAIA",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data",
+              "description": "arXiv 2025 Paper Code MoE-based scaling for omnimodal understanding and generation omni-modal understanding & generation MLP Projector",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 766816164,
+                "language": "Python",
+                "last_commit": "2026-08-06T10:50:45Z",
+                "owner": "HITsz-TMG",
+                "repo": "Uni-MoE",
+                "stars": 1116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large Language Models",
+              "description": "arXiv 2025 Paper Code Unified audio-visual speech recognition using LLMs audio-visual speech recognition Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1042637735,
+                "language": "Python",
+                "last_commit": "2026-08-20T19:57:41Z",
+                "owner": "umbertocappellazzo",
+                "repo": "Omni-AVSR",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LongCat-Flash-Omni Technical Report",
+              "description": "arXiv 2025 Paper Code Long-context omni-modal model supporting text and audio generation long-context omni-modal Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1082563285,
+                "language": "Python",
+                "last_commit": "2026-05-09T10:22:12Z",
+                "owner": "meituan-longcat",
+                "repo": "LongCat-Flash-Omni",
+                "stars": 505
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM",
+              "description": "arXiv 2025 Paper Code Architecture and data enhancements for omni-modal understanding omni-modal understanding Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1063632891,
+                "language": "Python",
+                "last_commit": "2026-02-26T01:39:42Z",
+                "owner": "NVlabs",
+                "repo": "OmniVinci",
+                "stars": 677
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue",
+              "description": "arXiv 2025 Paper Code Unified model for audio-visual multi-turn dialogue audio-visual dialogue Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1076582627,
+                "language": null,
+                "last_commit": "2025-12-03T10:51:45Z",
+                "owner": "SenseTime-FVG",
+                "repo": "InteractiveOmni",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Qwen3-Omni Technical Report",
+              "description": "arXiv 2025 Paper Code Omni-modal model with text and audio capabilities (Alibaba/Qwen series) omni-modal Native",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1061125458,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-04-23T10:58:01Z",
+                "owner": "QwenLM",
+                "repo": "Qwen3-Omni",
+                "stars": 3972
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Qwen2.5-Omni Technical Report",
+              "description": "arXiv 2025 Paper Code Omni-modal technical report with text and audio support (Alibaba/Qwen series) omni-modal Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 952842018,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-06-12T11:03:07Z",
+                "owner": "QwenLM",
+                "repo": "Qwen2.5-Omni",
+                "stars": 4071
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech, and Multimodal Live Streaming on Your Phone",
+              "description": "2025 Paper Code On-device GPT-4o level MLLM for vision, speech and multimodal live streaming (OpenBMB) on-device multimodal live streaming Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 749647889,
+                "language": "Python",
+                "last_commit": "2026-08-24T06:17:31Z",
+                "owner": "OpenBMB",
+                "repo": "MiniCPM-V",
+                "stars": 26222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Baichuan-Omni Technical Report",
+              "description": "arXiv 2024 Paper Code Technical report for Baichuan-Omni (Baichuan Inc.) omni-modal Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 865295714,
+                "language": null,
+                "last_commit": "2025-01-27T02:54:33Z",
+                "owner": "westlake-baichuan-mllm",
+                "repo": "bc-omni",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Baichuan-Omni-1.5 Technical Report",
+              "description": "arXiv 2025 Paper Code Technical report for Baichuan-Omni 1.5 (Baichuan Inc.) omni-modal Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 921195890,
+                "language": "Python",
+                "last_commit": "2025-02-08T08:03:13Z",
+                "owner": "baichuan-inc",
+                "repo": "Baichuan-Omni-1.5",
+                "stars": 194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VITA: Towards Open-Source Interactive Omni Multimodal LLM",
+              "description": "arXiv 2024 Paper Code Open-source interactive omni multimodal LLM interactive omni multimodal Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 840678954,
+                "language": "Python",
+                "last_commit": "2025-03-28T00:56:46Z",
+                "owner": "VITA-MLLM",
+                "repo": "VITA",
+                "stars": 2532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction",
+              "description": "arXiv 2024 Paper Code Real-time vision and speech interaction model real-time multimodal interaction Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 840678954,
+                "language": "Python",
+                "last_commit": "2025-03-28T00:56:46Z",
+                "owner": "VITA-MLLM",
+                "repo": "VITA",
+                "stars": 2532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities",
+              "description": "NeurIPS 2024 Paper Code Open-source GPT-4o style model with vision, speech and duplex capabilities vision-speech duplex Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 872524976,
+                "language": "Python",
+                "last_commit": "2025-01-16T14:20:25Z",
+                "owner": "gpt-omni",
+                "repo": "mini-omni2",
+                "stars": 1920
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment",
+              "description": "arXiv 2025 Paper Code Progressive modality alignment for omni-modal language model omni-modal alignment MLP Projector",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 926711891,
+                "language": "Python",
+                "last_commit": "2025-06-13T04:04:18Z",
+                "owner": "Ola-Omni",
+                "repo": "Ola",
+                "stars": 396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIO: A Foundation Model on Multimodal Tokens",
+              "description": "arXiv 2024 Paper Code Foundation model based on multimodal tokens multimodal tokens Native",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 879578769,
+                "language": "Python",
+                "last_commit": "2024-12-13T08:43:04Z",
+                "owner": "MIO-Team",
+                "repo": "MIO",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions",
+              "description": "CVPR 2024 Paper Code Multimodal model supporting seeing, hearing and emotional speech emotional multimodal Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 947794390,
+                "language": "Python",
+                "last_commit": "2025-03-16T03:19:54Z",
+                "owner": "emova-ollm",
+                "repo": "EMOVA",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stream-Omni: Simultaneous Multimodal Interactions with Large Language-Vision-Speech Model",
+              "description": "arXiv 2025 Paper Code Simultaneous multimodal interactions with language-vision-speech model simultaneous multimodal Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1003107219,
+                "language": "Python",
+                "last_commit": "2025-06-17T13:48:19Z",
+                "owner": "ictnlp",
+                "repo": "Stream-Omni",
+                "stars": 392
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding",
+              "description": "arXiv 2025 Paper Code Native multimodal LLM focused on 3D generation and understanding 3D multimodal Native",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 994323054,
+                "language": "Python",
+                "last_commit": "2025-10-20T05:14:11Z",
+                "owner": "JAMESYJL",
+                "repo": "ShapeLLM-Omni",
+                "stars": 575
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pengi: An Audio Language Model for Audio Tasks",
+              "description": "arXiv 2023 Paper Code Audio-language model using audio representations with a frozen language model for audio captioning, QA, and retrieval-style tasks audio-language understanding Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642904667,
+                "language": "Python",
+                "last_commit": "2024-04-19T16:29:11Z",
+                "owner": "microsoft",
+                "repo": "Pengi",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LTU: Listen, Think, and Understand",
+              "description": "arXiv 2023 Paper Code Audio-oriented multimodal instruction-following model for open-ended audio understanding audio-language understanding Hybrid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 643005437,
+                "language": "Python",
+                "last_commit": "2024-04-24T04:21:47Z",
+                "owner": "YuanGongND",
+                "repo": "ltu",
+                "stars": 478
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3.2 Omni MLLMs"
+        }
+      ],
+      "title": "3. Multimodal Large Language Models (MLLMs)"
+    },
+    {
+      "description": "In this section: 4.1 Taxonomy by Generation Paradigm · 4.2 Any-to-Any / Omni UMMs\nModels that unify multimodal understanding and visual generation within one framework. The defining property is U+G unification, not necessarily training from scratch.\nBoundary with NMMs: if a unified model's central contribution is native end-to-end multimodal pretraining from scratch, we document its architectural details primarily in §5 NMMs and keep §4 focused on the unified U+G perspective.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LLaDA2.0-Uni",
+                  "description": "arXiv 2026 Paper Code Unified Discrete Diffusion Unified image generation + understanding base on LLaDA2.0 visual understanding, visual generation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1213311333,
+                    "language": "Python",
+                    "last_commit": "2026-05-29T07:06:33Z",
+                    "owner": "inclusionAI",
+                    "repo": "LLaDA2.0-Uni",
+                    "stars": 693
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dual Diffusion",
+                  "description": "arXiv 2025 Paper Code Dual Diffusion Unified image generation + understanding via bidirectional diffusion visual understanding, visual generation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 941665504,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-04-01T15:40:54Z",
+                    "owner": "zijieli-Jlee",
+                    "repo": "Dual-Diffusion",
+                    "stars": 70
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "UniDisc",
+                  "description": "arXiv 2025 Paper Code Unified Discrete Diffusion Discrete diffusion for multimodal U+G visual understanding, visual generation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 950835377,
+                    "language": "Python",
+                    "last_commit": "2025-04-02T23:14:32Z",
+                    "owner": "alexanderswerdlow",
+                    "repo": "unidisc",
+                    "stars": 142
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MMaDA",
+                  "description": "arXiv 2025 Paper Code Multimodal Large Diffusion LM Diffusion LM for unified understanding/generation visual understanding, visual generation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 987541636,
+                    "language": "Python",
+                    "last_commit": "2026-02-14T05:50:05Z",
+                    "owner": "Gen-Verse",
+                    "repo": "MMaDA",
+                    "stars": 1667
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Muddit",
+                  "description": "arXiv 2025 Paper Code Unified Discrete Diffusion Liberating generation beyond T2I visual understanding, visual generation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 988992040,
+                    "language": "Python",
+                    "last_commit": "2026-04-13T07:48:25Z",
+                    "owner": "M-E-AGI-Lab",
+                    "repo": "Muddit",
+                    "stars": 120
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Lavida-O",
+                  "description": "arXiv 2025 Paper Code Elastic Large Masked Diffusion Elastic masked diffusion for U+G visual understanding, visual generation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1080678707,
+                    "language": "Python",
+                    "last_commit": "2025-12-01T18:34:09Z",
+                    "owner": "adobe-research",
+                    "repo": "LaVida-O",
+                    "stars": 23
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Diffusion-Based UMMs"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Chameleon",
+                      "description": "arXiv 2024 Paper Code image + text Mixed-modal early-fusion foundation models; token-by-token generation visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 816538211,
+                        "language": "Python",
+                        "last_commit": "2024-07-29T22:36:44Z",
+                        "owner": "facebookresearch",
+                        "repo": "chameleon",
+                        "stars": 2103
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "ANOLE",
+                      "description": "arXiv 2024 Paper Code image + text Open autoregressive native LMM for interleaved image-text generation visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 822624501,
+                        "language": "Python",
+                        "last_commit": "2025-06-16T05:51:08Z",
+                        "owner": "GAIR-NLP",
+                        "repo": "anole",
+                        "stars": 843
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Orthus",
+                      "description": "arXiv 2024 Paper Code image + text Autoregressive interleaved image-text generation with modality-specific heads visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 891875058,
+                        "language": "Python",
+                        "last_commit": "2025-05-15T03:46:19Z",
+                        "owner": "SJTU-DENG-Lab",
+                        "repo": "Orthus",
+                        "stars": 89
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Liquid",
+                      "description": "arXiv 2024 Paper Code image + text Language models are scalable and unified multi-modal generators visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 902419239,
+                        "language": "Python",
+                        "last_commit": "2026-06-01T22:05:17Z",
+                        "owner": "FoundationVision",
+                        "repo": "Liquid",
+                        "stars": 640
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Harmon",
+                      "description": "arXiv 2025 Paper Code image + text Shared MAR encoder for semantic + fine-grained harmony; SOTA GenEval visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 954472990,
+                        "language": "Python",
+                        "last_commit": "2025-05-21T03:58:26Z",
+                        "owner": "wusize",
+                        "repo": "Harmon",
+                        "stars": 193
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "TokLIP",
+                      "description": "arXiv 2025 Paper Code image + text Marry visual tokens to CLIP for U+G visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 979921063,
+                        "language": "Python",
+                        "last_commit": "2025-08-18T13:16:57Z",
+                        "owner": "TencentARC",
+                        "repo": "TokLIP",
+                        "stars": 236
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Selftok",
+                      "description": "arXiv 2025 Paper Code image + text Discrete visual tokens for AR / Diffusion / Reasoning visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 985053215,
+                        "language": "Python",
+                        "last_commit": "2025-05-30T09:41:39Z",
+                        "owner": "selftok-team",
+                        "repo": "SelftokTokenizer",
+                        "stars": 239
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "OneCat",
+                      "description": "arXiv 2025 Paper Code image + text Pure decoder-only unified U+G visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1049055445,
+                        "language": "Python",
+                        "last_commit": "2025-09-22T11:12:41Z",
+                        "owner": "onecat-ai",
+                        "repo": "OneCAT",
+                        "stars": 261
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Uni-X",
+                      "description": "arXiv 2025 Paper Code image + text Two-end-separated architecture mitigating modality conflict visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1063949300,
+                        "language": "Python",
+                        "last_commit": "2026-04-01T08:31:45Z",
+                        "owner": "CURRENTF",
+                        "repo": "Uni-X",
+                        "stars": 10
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Pixel Encoding"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Ming-UniVision: Joint Image Understanding and Generation with a Unified Continuous Tokenizer",
+                      "description": "arXiv 2025 Paper Code Unified continuous tokenizer for joint understanding and generation visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1067102698,
+                        "language": "Python",
+                        "last_commit": "2025-10-14T13:38:52Z",
+                        "owner": "inclusionAI",
+                        "repo": "Ming-UniVision",
+                        "stars": 143
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents",
+                      "description": "arXiv 2025 Paper Code Bridging MLLMs and diffusion models via patch-level CLIP latents visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1031678372,
+                        "language": "Python",
+                        "last_commit": "2025-11-24T22:28:26Z",
+                        "owner": "HL-hanlin",
+                        "repo": "Bifrost-1",
+                        "stars": 47
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Qwen-Image Technical Report",
+                      "description": "arXiv 2025 Paper Code High-quality image generation with strong text rendering visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1031256025,
+                        "language": "Python",
+                        "last_commit": "2026-02-10T07:37:37Z",
+                        "owner": "QwenLM",
+                        "repo": "Qwen-Image",
+                        "stars": 8257
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again",
+                      "description": "arXiv 2025 Paper Code RL-enhanced discrete autoregressive unified modeling visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1028340729,
+                        "language": "Python",
+                        "last_commit": "2025-08-26T03:03:24Z",
+                        "owner": "X-Omni-Team",
+                        "repo": "X-Omni",
+                        "stars": 428
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Ovis-U1 Technical Report",
+                      "description": "arXiv 2025 Paper Code 3B unified model for understanding, text-to-image and editing visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 992512658,
+                        "language": "Python",
+                        "last_commit": "2025-12-02T07:27:00Z",
+                        "owner": "ATH-MaaS",
+                        "repo": "Ovis-U1",
+                        "stars": 452
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "OmniGen2: Exploration to Advanced Multimodal Generation",
+                      "description": "arXiv 2025 Paper Code Versatile open-source unified generation model visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 997256882,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2026-03-20T07:21:13Z",
+                        "owner": "VectorSpaceLab",
+                        "repo": "OmniGen2",
+                        "stars": 4112
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations",
+                      "description": "arXiv 2025 Paper Code Text-aligned discrete semantic representations visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 993030014,
+                        "language": "Python",
+                        "last_commit": "2025-09-18T14:05:50Z",
+                        "owner": "csuhan",
+                        "repo": "Tar",
+                        "stars": 202
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation",
+                      "description": "arXiv 2025 Paper Code Y-shaped architecture for modality alignment visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1004983176,
+                        "language": "Python",
+                        "last_commit": "2025-08-26T03:58:28Z",
+                        "owner": "tliby",
+                        "repo": "UniFork",
+                        "stars": 48
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation",
+                      "description": "arXiv 2025 Paper Code High-resolution semantic encoders visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 892073402,
+                        "language": "Python",
+                        "last_commit": "2025-12-23T06:23:48Z",
+                        "owner": "PKU-YuanGroup",
+                        "repo": "UniWorld",
+                        "stars": 889
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "UniTok: A Unified Tokenizer for Visual Generation and Understanding",
+                      "description": "arXiv 2025 Paper Code Unified tokenizer visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 939870671,
+                        "language": "Python",
+                        "last_commit": "2025-11-14T23:44:15Z",
+                        "owner": "FoundationVision",
+                        "repo": "UniTok",
+                        "stars": 530
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation",
+                      "description": "arXiv 2025 Paper Code Text-aligned visual tokenization visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 928064489,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2025-03-01T08:48:03Z",
+                        "owner": "NVlabs",
+                        "repo": "QLIP",
+                        "stars": 97
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "PUMA: Empowering Unified MLLM with Multi-granular Visual Generation",
+                      "description": "arXiv 2024 Paper Code Multi-granular visual generation visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 871062754,
+                        "language": "Python",
+                        "last_commit": "2025-01-16T06:42:27Z",
+                        "owner": "rongyaofang",
+                        "repo": "PUMA",
+                        "stars": 132
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation",
+                      "description": "ICLR 2024 Paper Code Unified foundation model visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 877024785,
+                        "language": "Python",
+                        "last_commit": "2025-04-25T18:45:25Z",
+                        "owner": "mit-han-lab",
+                        "repo": "vila-u",
+                        "stars": 428
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models",
+                      "description": "arXiv 2024 Paper Code Multi-modality potential mining visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 777812139,
+                        "language": "Python",
+                        "last_commit": "2024-05-04T14:36:51Z",
+                        "owner": "JIA-Lab-research",
+                        "repo": "MGM",
+                        "stars": 3327
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal Feature Synchronizer",
+                      "description": "arXiv 2024 Paper Code Interleaved image-text generative modeling visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 744938845,
+                        "language": "Python",
+                        "last_commit": "2024-04-03T03:09:27Z",
+                        "owner": "OpenGVLab",
+                        "repo": "MM-Interleaved",
+                        "stars": 257
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "LaVIT: Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization",
+                      "description": "ICLR 2023 Paper Code Dynamic discrete visual tokenization visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 689177560,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2024-10-06T15:53:07Z",
+                        "owner": "jy0205",
+                        "repo": "LaVIT",
+                        "stars": 604
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Semantic Encoding"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation",
+                      "description": "arXiv 2025 Paper Code Simple baseline with learnable queries and lightweight connector bridging MLLM and diffusion visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 992746688,
+                        "language": "Python",
+                        "last_commit": "2025-06-27T02:23:29Z",
+                        "owner": "wusize",
+                        "repo": "OpenUni",
+                        "stars": 189
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Nexus-Gen: A Unified Model for Image Understanding, Generation, and Editing",
+                      "description": "arXiv 2025 Paper Code Prefilled autoregression in shared embedding space unifying understanding, generation and editing visual understanding, visual generation, editing",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 973457298,
+                        "language": "Python",
+                        "last_commit": "2025-07-29T05:50:23Z",
+                        "owner": "modelscope",
+                        "repo": "Nexus-Gen",
+                        "stars": 291
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Transfer between Modalities with MetaQueries",
+                      "description": "arXiv 2025 Paper Code Learnable MetaQueries as efficient interface between autoregressive MLLMs and diffusion models visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1003949066,
+                        "language": "Python",
+                        "last_commit": "2025-10-12T06:54:53Z",
+                        "owner": "facebookresearch",
+                        "repo": "metaquery",
+                        "stars": 327
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation",
+                      "description": "arXiv 2024 Paper Code Unified multi-granularity visual semantics for arbitrary-size comprehension and generation visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 779567940,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2025-02-24T11:57:44Z",
+                        "owner": "AILab-CVC",
+                        "repo": "SEED-X",
+                        "stars": 558
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Making LLaMA SEE and Draw with SEED Tokenizer",
+                      "description": "ICLR 2023 Paper Code SEED tokenizer enabling LLaMA for scalable multimodal autoregression (see and draw) visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 666655722,
+                        "language": "Python",
+                        "last_commit": "2024-09-21T15:13:36Z",
+                        "owner": "AILab-CVC",
+                        "repo": "SEED",
+                        "stars": 642
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Planting a SEED of Vision in Large Language Model",
+                      "description": "arXiv 2023 Paper Code SEED image tokenizer with 1D causal dependency and high-level semantics for LLM vision visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 666655722,
+                        "language": "Python",
+                        "last_commit": "2024-09-21T15:13:36Z",
+                        "owner": "AILab-CVC",
+                        "repo": "SEED",
+                        "stars": 642
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Learnable Query Encoding"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO",
+                      "description": "arXiv 2025 Paper Code Unified VLM with reasoning generation via Reinforcement Learning (RGPO) multimodal understanding, reasoning generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 986047523,
+                        "language": "Python",
+                        "last_commit": "2025-10-15T03:38:29Z",
+                        "owner": "TencentARC",
+                        "repo": "MindOmni",
+                        "stars": 139
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models",
+                      "description": "arXiv 2025 Paper Code Efficient linear-time unified multimodal model based on Mamba (state space models) multimodal understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 946525636,
+                        "language": "Python",
+                        "last_commit": "2026-07-27T03:48:06Z",
+                        "owner": "hustvl",
+                        "repo": "OmniMamba",
+                        "stars": 126
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling",
+                      "description": "arXiv 2025 Paper Code Scaled-up version of Janus with improved training strategy, more data and larger model size multimodal understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 874559208,
+                        "language": "Python",
+                        "last_commit": "2025-02-01T07:58:29Z",
+                        "owner": "deepseek-ai",
+                        "repo": "Janus",
+                        "stars": 17750
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation",
+                      "description": "arXiv 2024 Paper Code Decoupling visual encoding to enable unified understanding and generation in an autoregressive framework multimodal understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 874559208,
+                        "language": "Python",
+                        "last_commit": "2025-02-01T07:58:29Z",
+                        "owner": "deepseek-ai",
+                        "repo": "Janus",
+                        "stars": 17750
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Hybrid Encoding (Pseduo)"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "AToken: A Unified Tokenizer for Vision",
+                      "description": "arXiv 2025 Paper Code AToken unified visual tokenizer achieving high-fidelity reconstruction and semantic understanding for images, videos and 3D visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1080930021,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2025-11-08T21:09:21Z",
+                        "owner": "apple",
+                        "repo": "ml-atoken",
+                        "stars": 148
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Towards Scalable Pre-training of Visual Tokenizers for Generation",
+                      "description": "arXiv 2025 Paper Code VTP unified visual tokenizer pre-training framework with joint image-text contrastive, self-supervised and reconstruction losses visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1114410352,
+                        "language": "Python",
+                        "last_commit": "2026-04-15T07:09:46Z",
+                        "owner": "MiniMax-AI",
+                        "repo": "VTP",
+                        "stars": 502
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding",
+                      "description": "arXiv 2025 Paper Code Prism Hypothesis and unified autoencoding (UAE) harmonizing semantic and pixel representations across modalities visual understanding, visual generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1120913708,
+                        "language": "Python",
+                        "last_commit": "2026-07-28T13:08:52Z",
+                        "owner": "WeichenFan",
+                        "repo": "UAE",
+                        "stars": 211
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Show-o2: Improved Native Unified Multimodal Models",
+                      "description": "arXiv 2025 Paper Code Improved native unified multimodal models with autoregressive modeling and flow matching for understanding and generation multimodal understanding and generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 840162905,
+                        "language": "Python",
+                        "last_commit": "2026-01-08T16:30:37Z",
+                        "owner": "showlab",
+                        "repo": "Show-o",
+                        "stars": 1973
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding",
+                      "description": "CVPRW 2025 Paper Code Unified visual encoding combining discrete and continuous representations for autoregressive multimodal models multimodal understanding and generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 925909928,
+                        "language": "Python",
+                        "last_commit": "2025-04-23T02:24:35Z",
+                        "owner": "SxJyJay",
+                        "repo": "UniToken",
+                        "stars": 106
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning",
+                      "description": "arXiv 2025 Paper Code Enhanced visual autoregressive unified model with iterative instruction tuning and DPO reinforcement learning visual understanding, generation and editing",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 958534640,
+                        "language": "Python",
+                        "last_commit": "2025-04-15T10:41:09Z",
+                        "owner": "VARGPT-family",
+                        "repo": "VARGPT-v1.1",
+                        "stars": 271
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement",
+                      "description": "arXiv 2025 Paper Code Dual visual tokenization and diffusion refinement for unified multimodal large language model multimodal understanding and generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 959504464,
+                        "language": "Python",
+                        "last_commit": "2025-08-20T15:25:16Z",
+                        "owner": "illume-unified-mllm",
+                        "repo": "ILLUME_plus",
+                        "stars": 126
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model",
+                      "description": "arXiv 2025 Paper Code Visual autoregressive framework unifying understanding and generation in a single MLLM visual understanding and generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 920089405,
+                        "language": "Python",
+                        "last_commit": "2025-04-17T14:11:16Z",
+                        "owner": "VARGPT-family",
+                        "repo": "VARGPT",
+                        "stars": 326
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation",
+                      "description": "CVPR 2025 Paper Code Unified image tokenizer with dual-codebook architecture bridging understanding and generation multimodal understanding and generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 897823812,
+                        "language": "Python",
+                        "last_commit": "2025-08-08T08:32:28Z",
+                        "owner": "ByteVisionLab",
+                        "repo": "TokenFlow",
+                        "stars": 464
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Hybrid Encoding (Joint)"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Autoregressive (AR) UMMs"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Show-o: One Single Transformer to Unify Multimodal Understanding and Generation",
+                      "description": "ICLR 2025 Paper Code Unified transformer combining autoregressive and discrete diffusion modeling to flexibly handle mixed-modality inputs/outputs multimodal understanding and generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 840162905,
+                        "language": "Python",
+                        "last_commit": "2026-01-08T16:30:37Z",
+                        "owner": "showlab",
+                        "repo": "Show-o",
+                        "stars": 1973
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Pixel Encoding"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing",
+                      "description": "arXiv 2026 Paper Code Connects pretrained MLLMs with video diffusion models through lightweight adapters for unified video generation and editing video generation and editing",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1015966087,
+                        "language": "Python",
+                        "last_commit": "2026-02-28T14:22:01Z",
+                        "owner": "SAIS-FUXI",
+                        "repo": "Omni-Video",
+                        "stars": 162
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing",
+                      "description": "arXiv 2026 Paper Code 4B unified multimodal model integrating a strong MLLM with an MMDiT-based visual generation head for understanding, reasoning, generation and editing multimodal understanding, reasoning, generation and editing",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1173534698,
+                        "language": "Python",
+                        "last_commit": "2026-03-21T15:27:52Z",
+                        "owner": "OpenGVLab",
+                        "repo": "InternVL-U",
+                        "stars": 297
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture",
+                      "description": "arXiv 2025 Paper Code Efficient unified architecture with autoencoders, channel-wise concatenation, shared-decoupled networks and MoE for understanding, generation and editing multimodal understanding, generation and editing",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 1110706645,
+                        "language": "Python",
+                        "last_commit": "2025-12-16T11:28:27Z",
+                        "owner": "umm-emma",
+                        "repo": "emma",
+                        "stars": 62
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "BAGEL: Emerging Properties in Unified Multimodal Pretraining",
+                      "description": "arXiv 2025 Paper Code Open-source foundational decoder-only model pretrained on trillions of interleaved multimodal tokens supporting native understanding and generation multimodal understanding and generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 967889784,
+                        "language": "Python",
+                        "last_commit": "2026-05-04T17:01:02Z",
+                        "owner": "ByteDance-Seed",
+                        "repo": "Bagel",
+                        "stars": 6157
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "Hybrid Encoding"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Hybrid (AR + Diffusion) UMMs"
+            }
+          ],
+          "description": "Subtopics: Diffusion-Based UMMs · Autoregressive (AR) UMMs · Hybrid (AR + Diffusion) UMMs\nUnified models are categorized according to their core generation mechanism for visual output (while supporting strong multimodal understanding). This taxonomy highlights trade-offs in fidelity, reasoning, efficiency, and training stability.",
+          "node_type": "group",
+          "title": "4.1 Taxonomy by Generation Paradigm"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LongCat-Flash-Omni",
+              "description": "arXiv 2025 Paper Code Efficient omni model with flash-style acceleration and real-time audio-visual interaction (560B parameters) any-to-any multimodal generation and understanding",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1082563285,
+                "language": "Python",
+                "last_commit": "2026-05-09T10:22:12Z",
+                "owner": "meituan-longcat",
+                "repo": "LongCat-Flash-Omni",
+                "stars": 505
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ming-Flash-Omni",
+              "description": "arXiv 2025 Paper Code Sparse unified MoE architecture (100B total, 6.1B active) for efficient multimodal perception and generation any-to-any multimodal perception and generation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 969946579,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-27T11:52:51Z",
+                "owner": "inclusionAI",
+                "repo": "Ming",
+                "stars": 668
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Qwen3-Omni",
+              "description": "arXiv 2025 Paper Code Next-gen Qwen omni model with unified modality space, maintaining SOTA across text/image/audio/video any-to-any multimodal understanding and generation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1061125458,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-04-23T10:58:01Z",
+                "owner": "QwenLM",
+                "repo": "Qwen3-Omni",
+                "stars": 3972
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ming-Omni",
+              "description": "arXiv 2025 Paper Code Unified multimodal architecture for perception + generation (images, text, audio, video) any-to-any multimodal tasks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 969946579,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-27T11:52:51Z",
+                "owner": "inclusionAI",
+                "repo": "Ming",
+                "stars": 668
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spider",
+              "description": "arXiv 2024 Paper Code Any-to-many multimodal LLM with flexible output heads for arbitrary modality combinations multimodal understanding and generation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 924730525,
+                "language": "Python",
+                "last_commit": "2025-04-26T15:27:14Z",
+                "owner": "Layjins",
+                "repo": "Spider",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unified-IO 2",
+              "description": "CVPR 2024 Paper Code Scales autoregressive multimodal models across modalities any-to-any multimodal tasks (vision, language, audio, action)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 730854277,
+                "language": "Python",
+                "last_commit": "2024-02-15T23:57:13Z",
+                "owner": "allenai",
+                "repo": "unified-io-2",
+                "stars": 648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NExT-GPT",
+              "description": "arXiv 2023 Paper Code Any-to-any; encoder+LLM+diffusion decoders visual understanding, visual generation, omni",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 684881857,
+                "language": "Python",
+                "last_commit": "2025-05-13T09:57:47Z",
+                "owner": "NExT-GPT",
+                "repo": "NExT-GPT",
+                "stars": 3637
+              }
+            }
+          ],
+          "description": "Models that extend unified understanding + generation beyond text and image to support any-to-any modality conversion (audio, video, speech, etc.). These often build on the paradigms above but emphasize native omni-modal tokenization, long-context handling, and cross-modal generation.",
+          "node_type": "group",
+          "title": "4.2 Any-to-Any / Omni UMMs"
+        }
+      ],
+      "title": "4. Unified Multimodal Models (UMMs)"
+    },
+    {
+      "description": "In this section: 5.1 Design Analyses & Scaling Laws · 5.2 Early Fusion NMMs · 5.3 Late Fusion NMMs · 5.4 Any-to-Any / Omni NMMs\nThe most restrictive category. NMMs are trained completely from scratch on multimodal data — no pretrained LLM or vision encoder is used as initialization. All weights are jointly learned end-to-end.\nWhat recent arXiv work emphasizes: native multimodality is increasingly defined by end-to-end multimodal pretraining, tokenizer/representation co-design, and scaling strategies that explicitly address the asymmetry between vision and language.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NaViL: Rethinking Scaling Properties of Native Multimodal Large Language Models under Data Constraints",
+              "description": "arXiv 2025 Paper Code End-to-end native MLLM scaling shows positive correlation between visual encoder and LLM size under data constraints; optimal meta-architecture balances cost and performance",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1072783568,
+                "language": "Python",
+                "last_commit": "2025-10-10T01:27:18Z",
+                "owner": "OpenGVLab",
+                "repo": "NaViL",
+                "stars": 95
+              }
+            }
+          ],
+          "description": "Recent arXiv papers sharpen the definition of NMMs and identify the main bottlenecks in native multimodal pretraining.",
+          "node_type": "group",
+          "title": "5.1 Design Analyses & Scaling Laws"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SenseNova-U1",
+              "description": "arXiv 2026 Paper Code — NEO-Unify-based native unified multimodal model handling understanding, generation, and reasoning in one model Unified Understanding & Generation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1213108633,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:17:36Z",
+                "owner": "OpenSenseNova",
+                "repo": "SenseNova-U1",
+                "stars": 5509
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Emu3.5",
+              "description": "Nature 2026 Paper Code Large-scale (trillion+ tokens) Native world model; next-state prediction on interleaved video/text; Discrete Diffusion Adaptation for efficiency interleaved generation, world modeling, any-to-image",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1085767146,
+                "language": "Python",
+                "last_commit": "2025-12-30T15:36:41Z",
+                "owner": "baaivision",
+                "repo": "Emu3.5",
+                "stars": 1547
+              }
+            }
+          ],
+          "description": "Single Transformer decoder processes tokenized text and image inputs from layer 1, with minimal modality-specific parameters (only a linear patch embedding for images). No separate image encoder component.\nRecent scaling-law evidence suggests early-fusion NMMs are often stronger at lower parameter counts and simpler to deploy when paired with sufficiently strong visual representations.",
+          "node_type": "group",
+          "title": "5.2 Early Fusion NMMs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lance",
+              "description": "arXiv 2026 Paper Code 3B (MoE) Native multimodal MoE Unified multimodal understanding and multimodal generation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1239459771,
+                "language": "Python",
+                "last_commit": "2026-07-14T13:17:31Z",
+                "owner": "bytedance",
+                "repo": "Lance",
+                "stars": 1327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLaVA-OneVision-2",
+              "description": "arXiv 2026 Code HF 8B Native multimodal training with OneVision-Encoder and Qwen3 text backbone; codec-aligned visual encoding for image, long-video, spatial, document/OCR/chart understanding visual understanding, video, spatial reasoning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1058015331,
+                "language": "Python",
+                "last_commit": "2026-08-24T01:18:25Z",
+                "owner": "EvolvingLMMs-Lab",
+                "repo": "LLaVA-OneVision-2",
+                "stars": 1192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training",
+              "description": "arXiv 2025 Paper Code HF 4B / 8B; 85M mid-training data + 22M instruction data Native multimodal training with RICE-ViT, two-layer MLP projector, and Qwen3 backbone; supports image, multi-image, and video visual understanding, video",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1058015331,
+                "language": "Python",
+                "last_commit": "2026-08-24T01:18:25Z",
+                "owner": "EvolvingLMMs-Lab",
+                "repo": "LLaVA-OneVision-2",
+                "stars": 1192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Emu3",
+              "description": "arXiv 2024 Paper Code 8B Next-token prediction over VQ image tokens; native multimodal decoder-only; minimal modality-specific params visual understanding, visual generation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 863473384,
+                "language": "Python",
+                "last_commit": "2026-01-12T08:39:22Z",
+                "owner": "baaivision",
+                "repo": "Emu3",
+                "stars": 2437
+              }
+            }
+          ],
+          "description": "Models where separate unimodal components are jointly trained from scratch (not pretrained), with cross-modal interaction occurring at deeper layers. Distinct from MLLMs where vision encoders are pretrained.",
+          "node_type": "group",
+          "title": "5.3 Late Fusion NMMs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MiniMax-M3",
+              "description": "MiniMax 2026 Blog Code ~428B total / ~23B active; 1M context Native multimodal model with MiniMax Sparse Attention (MSA), trained for text, image, and video understanding, long-context coding, agentic workflows, and computer-use tasks native multimodal understanding, video, coding, agentic computer use",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1255737222,
+                "language": null,
+                "last_commit": "2026-07-11T09:08:38Z",
+                "owner": "MiniMax-AI",
+                "repo": "MiniMax-M3",
+                "stars": 467
+              }
+            }
+          ],
+          "description": "The latest arXiv-native multimodal papers increasingly blur the boundaries between omni understanding, any-to-any generation, world modeling, and RL-enhanced post-training.",
+          "node_type": "group",
+          "title": "5.4 Any-to-Any / Omni NMMs"
+        }
+      ],
+      "title": "5. Native Multimodal Models (NMMs)"
+    },
+    {
+      "description": "In this section: 7.1 Related Awesome Lists · 7.2 Slides & Survey Papers · 7.3 Code Repositories & Tools",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-multimodal-ml",
+              "description": "General multimodal ML pliang279",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188919037,
+                "language": null,
+                "last_commit": "2024-08-20T19:46:33Z",
+                "owner": "pliang279",
+                "repo": "awesome-multimodal-ml",
+                "stars": 6926
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-Multimodal-Large-Language-Models",
+              "description": "MLLMs + evaluation BradyFU",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 642642539,
+                "language": null,
+                "last_commit": "2026-08-21T16:19:20Z",
+                "owner": "BradyFU",
+                "repo": "Awesome-Multimodal-Large-Language-Models",
+                "stars": 17988
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-Multimodal-Research",
+              "description": "Broad multimodal research Eurus-Holmes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 199870084,
+                "language": "Python",
+                "last_commit": "2023-08-05T05:44:56Z",
+                "owner": "Eurus-Holmes",
+                "repo": "Awesome-Multimodal-Research",
+                "stars": 1394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-Unified-Multimodal-Models",
+              "description": "UMMs ShowLab",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 848270446,
+                "language": null,
+                "last_commit": "2025-10-10T14:52:51Z",
+                "owner": "showlab",
+                "repo": "Awesome-Unified-Multimodal-Models",
+                "stars": 829
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-Multimodal-Large-Language-Models",
+              "description": "MLLMs yfzhang114",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 779572858,
+                "language": null,
+                "last_commit": "2026-07-14T04:00:28Z",
+                "owner": "yfzhang114",
+                "repo": "Awesome-Multimodal-Large-Language-Models",
+                "stars": 1193
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-foundation-and-multimodal-models",
+              "description": "Foundation + multimodal SkalskiP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 702093474,
+                "language": "Python",
+                "last_commit": "2024-02-29T14:14:56Z",
+                "owner": "SkalskiP",
+                "repo": "awesome-foundation-and-multimodal-models",
+                "stars": 637
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-Multimodality",
+              "description": "General multimodality Yutong-Zhou-cv",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 408330439,
+                "language": null,
+                "last_commit": "2023-08-22T04:33:03Z",
+                "owner": "Yutong-Zhou-cv",
+                "repo": "Awesome-Multimodality",
+                "stars": 332
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-Unified-Multimodal",
+              "description": "Unified models Purshow",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 899615767,
+                "language": null,
+                "last_commit": "2026-01-08T11:54:19Z",
+                "owner": "Purshow",
+                "repo": "Awesome-Unified-Multimodal",
+                "stars": 365
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-Unified-Multimodal",
+              "description": "Unified models AIDC-AI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 979128621,
+                "language": null,
+                "last_commit": "2026-03-24T09:52:04Z",
+                "owner": "ATH-MaaS",
+                "repo": "Awesome-Unified-Multimodal-Models",
+                "stars": 1312
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "7.1 Related Awesome Lists"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TorchUMM",
+              "description": "Unified evaluation, analysis and post-training toolkit for heterogeneous unified multimodal model architectures, tasks and datasets Paper Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1200017679,
+                "language": "Python",
+                "last_commit": "2026-08-21T20:33:37Z",
+                "owner": "AIFrontierLab",
+                "repo": "TorchUMM",
+                "stars": 584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LMMs-Eval",
+              "description": "Unified evaluation harness for multimodal models Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 768612800,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:17:38Z",
+                "owner": "EvolvingLMMs-Lab",
+                "repo": "lmms-eval",
+                "stars": 4375
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LAVIS",
+              "description": "Library for Language-Vision Intelligence (Salesforce) Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 528238131,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-02T18:14:49Z",
+                "owner": "salesforce",
+                "repo": "LAVIS",
+                "stars": 11261
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenFlamingo",
+              "description": "Open reproduction of DeepMind Flamingo Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 554523373,
+                "language": "Python",
+                "last_commit": "2024-08-31T23:11:03Z",
+                "owner": "mlfoundations",
+                "repo": "open_flamingo",
+                "stars": 4119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xtuner",
+              "description": "Efficient fine-tuning for multimodal LLMs Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 664913876,
+                "language": "Python",
+                "last_commit": "2026-08-24T12:01:30Z",
+                "owner": "InternLM",
+                "repo": "xtuner",
+                "stars": 5182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLaMA-Factory",
+              "description": "Multimodal instruction tuning framework Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 646410686,
+                "language": "Python",
+                "last_commit": "2026-08-20T10:53:39Z",
+                "owner": "hiyouga",
+                "repo": "LlamaFactory",
+                "stars": 74310
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MMEngine",
+              "description": "Foundation for perception research (OpenMMLab) Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456857425,
+                "language": "Python",
+                "last_commit": "2026-07-13T07:30:05Z",
+                "owner": "open-mmlab",
+                "repo": "mmengine",
+                "stars": 1492
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepSpeed-VisualChat",
+              "description": "Scalable multimodal chat training Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237085793,
+                "language": "Python",
+                "last_commit": "2026-08-24T11:03:11Z",
+                "owner": "deepspeedai",
+                "repo": "DeepSpeedExamples",
+                "stars": 6841
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "7.3 Code Repositories & Tools"
+        }
+      ],
+      "title": "7. Resources"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T13:57:02.605Z",
+    "last_updated": "2026-08-24T14:24:52.979Z",
     "original_repository": "OpenEnvision/Awesome-Multimodal-Modeling",
     "original_repository_id": 1193748483,
     "original_repository_sha": "6dd0cc6e7ca96d2dca62e60f81babbd5ce061fd1",
