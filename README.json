@@ -14,12 +14,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone",
+                    "homepage": null,
                     "id": 749647889,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T09:50:07Z",
+                    "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26252
+                    "stars": 26253,
+                    "topics": [
+                      "minicpm",
+                      "minicpm-o",
+                      "minicpm-v",
+                      "multi-modal"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -30,12 +40,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+                    "homepage": "https://www.paddleocr.com",
                     "id": 262296122,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-22T11:59:34Z",
+                    "open_issues": 235,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleOCR",
-                    "stars": 88416
+                    "stars": 88418,
+                    "topics": [
+                      "ai4science",
+                      "chineseocr",
+                      "document-parsing",
+                      "document-translation",
+                      "kie",
+                      "ocr",
+                      "paddleocr-vl",
+                      "pdf-extractor-rag",
+                      "pdf-parser",
+                      "pdf2markdown",
+                      "pp-ocr",
+                      "pp-structure",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -46,12 +75,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the Molmo Vision-Language Model",
+                    "homepage": null,
                     "id": 899141748,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-12-12T17:37:41Z",
+                    "open_issues": 34,
                     "owner": "allenai",
                     "repo": "molmo",
-                    "stars": 929
+                    "stars": 929,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -62,12 +96,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model",
+                    "homepage": null,
                     "id": 850919564,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-02-10T12:13:00Z",
+                    "open_issues": 231,
                     "owner": "Ucas-HaoranWei",
                     "repo": "GOT-OCR2.0",
-                    "stars": 8219
+                    "stars": 8219,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -78,12 +117,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 769149672,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-15T06:32:49Z",
+                    "open_issues": 358,
                     "owner": "LLaVA-VL",
                     "repo": "LLaVA-NeXT",
-                    "stars": 4716
+                    "stars": 4716,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -94,12 +138,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone",
+                    "homepage": null,
                     "id": 749647889,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T09:50:07Z",
+                    "open_issues": 59,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26252
+                    "stars": 26253,
+                    "topics": [
+                      "minicpm",
+                      "minicpm-o",
+                      "minicpm-v",
+                      "multi-modal"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -110,12 +164,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding",
+                    "homepage": null,
                     "id": 902697574,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-02-26T05:03:42Z",
+                    "open_issues": 119,
                     "owner": "deepseek-ai",
                     "repo": "DeepSeek-VL2",
-                    "stars": 5375
+                    "stars": 5375,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -126,12 +185,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cambrian-1 is a family of multimodal LLMs with a vision-centric design.",
+                    "homepage": "https://cambrian-mllm.github.io/",
                     "id": 816163847,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-07T03:26:25Z",
+                    "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2013
+                    "stars": 2013,
+                    "topics": [
+                      "chatbot",
+                      "clip",
+                      "computer-vision",
+                      "dino",
+                      "instruction-tuning",
+                      "large-language-models",
+                      "llms",
+                      "mllm",
+                      "multimodal-large-language-models",
+                      "representation-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -142,12 +217,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions",
+                    "homepage": null,
                     "id": 696572451,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-05-26T15:59:34Z",
+                    "open_issues": 148,
                     "owner": "InternLM",
                     "repo": "InternLM-XComposer",
-                    "stars": 2926
+                    "stars": 2926,
+                    "topics": [
+                      "chatgpt",
+                      "foundation",
+                      "gpt",
+                      "gpt-4",
+                      "instruction-tuning",
+                      "language-model",
+                      "large-language-model",
+                      "large-vision-language-model",
+                      "llm",
+                      "mllm",
+                      "multi-modality",
+                      "multimodal",
+                      "supervised-finetuning",
+                      "vision-language-model",
+                      "vision-transformer",
+                      "visual-language-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -158,12 +255,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型",
+                    "homepage": "https://internvl.readthedocs.io/en/latest/",
                     "id": 721995615,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-22T01:36:48Z",
+                    "open_issues": 315,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10148
+                    "stars": 10148,
+                    "topics": [
+                      "gpt",
+                      "gpt-4o",
+                      "gpt-4v",
+                      "image-classification",
+                      "image-text-retrieval",
+                      "llm",
+                      "multi-modal",
+                      "semantic-segmentation",
+                      "video-classification",
+                      "vision-language-model",
+                      "vit-22b",
+                      "vit-6b"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -174,12 +289,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A novel Multimodal Large Language Model (MLLM) architecture, designed to structurally align visual and textual embeddings.",
+                    "homepage": "https://huggingface.co/AIDC-AI/Ovis2.5-9B",
                     "id": 814502811,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-15T14:04:16Z",
+                    "open_issues": 83,
                     "owner": "ATH-MaaS",
                     "repo": "Ovis",
-                    "stars": 1512
+                    "stars": 1512,
+                    "topics": [
+                      "chatbot",
+                      "llama3",
+                      "multimodal",
+                      "multimodal-large-language-models",
+                      "multimodality",
+                      "qwen",
+                      "vision-language-learning",
+                      "vision-language-model"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -190,12 +319,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Monkey (LMM): Image Resolution and Text Label Are Important Things for Large Multi-modal Models (CVPR 2024 Highlight)",
+                    "homepage": null,
                     "id": 716626889,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-02T01:58:53Z",
+                    "open_issues": 20,
                     "owner": "Yuliang-Liu",
                     "repo": "Monkey",
-                    "stars": 1951
+                    "stars": 1951,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -206,12 +340,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "【TMM 2025🔥】 Mixture-of-Experts for Large Vision-Language Models",
+                    "homepage": "https://arxiv.org/abs/2401.15947",
                     "id": 731413021,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-07-15T07:59:33Z",
+                    "open_issues": 65,
                     "owner": "PKU-YuanGroup",
                     "repo": "MoE-LLaVA",
-                    "stars": 2322
+                    "stars": 2322,
+                    "topics": [
+                      "large-vision-language-model",
+                      "mixture-of-experts",
+                      "moe",
+                      "multi-modal"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -222,12 +366,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Strong and Open Vision Language Assistant for Mobile Devices",
+                    "homepage": null,
                     "id": 736844434,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-04-15T03:53:45Z",
+                    "open_issues": 34,
                     "owner": "Meituan-AutoML",
                     "repo": "MobileVLM",
-                    "stars": 1370
+                    "stars": 1370,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -238,12 +387,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2024] Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.",
+                    "homepage": null,
                     "id": 728602788,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-30T07:43:26Z",
+                    "open_issues": 108,
                     "owner": "Ucas-HaoranWei",
                     "repo": "Vary",
-                    "stars": 1889
+                    "stars": 1889,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -254,12 +408,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models (ECCV 2024)",
+                    "homepage": null,
                     "id": 724542698,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-29T10:27:42Z",
+                    "open_issues": 44,
                     "owner": "JIA-Lab-research",
                     "repo": "LLaMA-VID",
-                    "stars": 861
+                    "stars": 861,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -270,12 +429,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "【EMNLP 2024🔥】Video-LLaVA: Learning United Visual Representation by Alignment Before Projection",
+                    "homepage": "https://arxiv.org/pdf/2311.10122.pdf",
                     "id": 708655533,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-12-03T02:58:46Z",
+                    "open_issues": 125,
                     "owner": "PKU-YuanGroup",
                     "repo": "Video-LLaVA",
-                    "stars": 3499
+                    "stars": 3499,
+                    "topics": [
+                      "instruction-tuning",
+                      "large-vision-language-model",
+                      "multi-modal"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -286,12 +454,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2024 🔥] Grounding Large Multimodal Model (GLaMM), the first-of-its-kind model capable of generating natural language responses that are seamlessly integrated with object segmentation masks.",
+                    "homepage": "https://grounding-anything.com",
                     "id": 713507196,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-08-05T01:13:15Z",
+                    "open_issues": 36,
                     "owner": "mbzuai-oryx",
                     "repo": "groundingLMM",
-                    "stars": 967
+                    "stars": 967,
+                    "topics": [
+                      "foundation-models",
+                      "llm-agent",
+                      "lmm",
+                      "vision-and-language",
+                      "vision-language-model"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -302,12 +481,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 701540574,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-10-09T02:40:44Z",
+                    "open_issues": 7,
                     "owner": "apple",
                     "repo": "ml-ferret",
-                    "stars": 8673
+                    "stars": 8673,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -318,12 +502,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+                    "homepage": "https://llava.hliu.cc",
                     "id": 629102662,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-12T09:52:38Z",
+                    "open_issues": 1140,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25005
+                    "stars": 25005,
+                    "topics": [
+                      "chatbot",
+                      "chatgpt",
+                      "foundation-models",
+                      "gpt-4",
+                      "instruction-tuning",
+                      "llama",
+                      "llama-2",
+                      "llama2",
+                      "llava",
+                      "multi-modality",
+                      "multimodal",
+                      "vision-language-model",
+                      "visual-language-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -334,12 +537,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "【ICLR 2024🔥】 Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment",
+                    "homepage": "https://arxiv.org/abs/2310.01852",
                     "id": 699285749,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-25T12:28:38Z",
+                    "open_issues": 34,
                     "owner": "PKU-YuanGroup",
                     "repo": "LanguageBind",
-                    "stars": 885
+                    "stars": 885,
+                    "topics": [
+                      "language-central",
+                      "multi-modal",
+                      "pretraining",
+                      "zero-shot"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -350,12 +563,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters",
+                    "homepage": null,
                     "id": 616083282,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-03-14T08:12:53Z",
+                    "open_issues": 112,
                     "owner": "OpenGVLab",
                     "repo": "LLaMA-Adapter",
-                    "stars": 5914
+                    "stars": 5914,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -366,12 +584,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ECCV 2024 Best Paper Candidate & TPAMI 2025] PointLLM: Empowering Large Language Models to Understand Point Clouds",
+                    "homepage": "https://runsenxu.com/projects/PointLLM",
                     "id": 679564879,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-15T07:35:59Z",
+                    "open_issues": 9,
                     "owner": "InternRobotics",
                     "repo": "PointLLM",
-                    "stars": 1051
+                    "stars": 1051,
+                    "topics": [
+                      "3d",
+                      "chatbot",
+                      "foundation-models",
+                      "gpt-4",
+                      "large-language-models",
+                      "llama",
+                      "multimodal",
+                      "objaverse",
+                      "point-cloud",
+                      "pointllm",
+                      "representation-learning",
+                      "vision-and-language"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -382,12 +618,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Project Page for \"LISA: Reasoning Segmentation via Large Language Model\"",
+                    "homepage": null,
                     "id": 673431525,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-02-16T13:33:08Z",
+                    "open_issues": 115,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2674
+                    "stars": 2674,
+                    "topics": [
+                      "large-language-model",
+                      "llm",
+                      "multi-modal",
+                      "segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -398,12 +644,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "(ECCVW 2025)GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest ",
+                    "homepage": null,
                     "id": 663121272,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-06-03T20:23:02Z",
+                    "open_issues": 30,
                     "owner": "jshilong",
                     "repo": "GPT4RoI",
-                    "stars": 555
+                    "stars": 555,
+                    "topics": [
+                      "computer-vision",
+                      "gpt",
+                      "llm",
+                      "multimodality",
+                      "roi"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -414,12 +671,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for  3D-LLM: Injecting the 3D World into Large Language Models",
+                    "homepage": null,
                     "id": 670231330,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-06-06T19:14:00Z",
+                    "open_issues": 31,
                     "owner": "UMass-Embodied-AGI",
                     "repo": "3D-LLM",
-                    "stars": 1212
+                    "stars": 1212,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -430,12 +692,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 658847441,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-07-08T16:14:12Z",
+                    "open_issues": 48,
                     "owner": "shikras",
                     "repo": "shikra",
-                    "stars": 816
+                    "stars": 816,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -446,12 +713,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Large Language-and-Vision Assistant for Biomedicine, built towards multimodal GPT-4 level capabilities.",
+                    "homepage": null,
                     "id": 643298473,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-06-04T15:56:12Z",
+                    "open_issues": 107,
                     "owner": "microsoft",
                     "repo": "LLaVA-Med",
-                    "stars": 2231
+                    "stars": 2231,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -462,12 +734,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 637920281,
                     "language": "Jupyter Notebook",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-08-07T14:49:11Z",
+                    "open_issues": 27,
                     "owner": "OptimalScale",
                     "repo": "DetGPT",
-                    "stars": 785
+                    "stars": 785,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -478,12 +755,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VisionLLM Series",
+                    "homepage": "https://arxiv.org/abs/2305.11175",
                     "id": 642332004,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-02-27T08:31:04Z",
+                    "open_issues": 20,
                     "owner": "OpenGVLab",
                     "repo": "VisionLLM",
-                    "stars": 1154
+                    "stars": 1154,
+                    "topics": [
+                      "generalist-model",
+                      "large-language-models",
+                      "object-detection"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -494,12 +780,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Multimodal-GPT",
+                    "homepage": null,
                     "id": 632871496,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-06-04T01:42:37Z",
+                    "open_issues": 22,
                     "owner": "open-mmlab",
                     "repo": "Multimodal-GPT",
-                    "stars": 1512
+                    "stars": 1512,
+                    "topics": [
+                      "flamingo",
+                      "gpt",
+                      "gpt-4",
+                      "llama",
+                      "multimodal",
+                      "transformer",
+                      "vision-and-language"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -510,12 +809,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters",
+                    "homepage": null,
                     "id": 616083282,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-03-14T08:12:53Z",
+                    "open_issues": 112,
                     "owner": "OpenGVLab",
                     "repo": "LLaMA-Adapter",
-                    "stars": 5914
+                    "stars": 5914,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -526,12 +830,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters",
+                    "homepage": null,
                     "id": 616083282,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-03-14T08:12:53Z",
+                    "open_issues": 112,
                     "owner": "OpenGVLab",
                     "repo": "LLaMA-Adapter",
-                    "stars": 5914
+                    "stars": 5914,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -542,12 +851,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+                    "homepage": "https://llava.hliu.cc",
                     "id": 629102662,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-12T09:52:38Z",
+                    "open_issues": 1140,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25005
+                    "stars": 25005,
+                    "topics": [
+                      "chatbot",
+                      "chatgpt",
+                      "foundation-models",
+                      "gpt-4",
+                      "instruction-tuning",
+                      "llama",
+                      "llama-2",
+                      "llama2",
+                      "llava",
+                      "multi-modality",
+                      "multimodal",
+                      "vision-language-model",
+                      "visual-language-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 }
@@ -565,12 +893,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2023 Demo] Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding",
+                    "homepage": null,
                     "id": 637126931,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-06-04T07:06:41Z",
+                    "open_issues": 69,
                     "owner": "DAMO-NLP-SG",
                     "repo": "Video-LLaMA",
-                    "stars": 3139
+                    "stars": 3139,
+                    "topics": [
+                      "blip2",
+                      "cross-modal-pretraining",
+                      "large-language-models",
+                      "llama",
+                      "minigpt4",
+                      "multi-modal-chatgpt",
+                      "video-language-pretraining",
+                      "vision-language-pretraining"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -581,12 +923,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+                    "homepage": null,
                     "id": 528238131,
                     "language": "Jupyter Notebook",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-06-02T18:14:49Z",
+                    "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11262
+                    "stars": 11262,
+                    "topics": [
+                      "deep-learning",
+                      "deep-learning-library",
+                      "image-captioning",
+                      "multimodal-datasets",
+                      "multimodal-deep-learning",
+                      "salesforce",
+                      "vision-and-language",
+                      "vision-framework",
+                      "vision-language-pretraining",
+                      "vision-language-transformer",
+                      "visual-question-anwsering"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -597,12 +956,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.",
+                    "homepage": "https://vchat.opengvlab.com/",
                     "id": 629922458,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-17T10:31:09Z",
+                    "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3347
+                    "stars": 3347,
+                    "topics": [
+                      "big-model",
+                      "captioning-videos",
+                      "chat",
+                      "chatgpt",
+                      "foundation-models",
+                      "gradio",
+                      "langchain",
+                      "large-language-models",
+                      "large-model",
+                      "stablelm",
+                      "video",
+                      "video-question-answering",
+                      "video-understanding"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -613,12 +991,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "mPLUG-Owl: The Powerful Multi-modal Large Language Model  Family",
+                    "homepage": "https://www.modelscope.cn/studios/damo/mPLUG-Owl",
                     "id": 632244130,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-04-02T12:30:45Z",
+                    "open_issues": 101,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
-                    "stars": 2539
+                    "stars": 2539,
+                    "topics": [
+                      "alpaca",
+                      "chatbot",
+                      "chatgpt",
+                      "damo",
+                      "dialogue",
+                      "gpt",
+                      "gpt4",
+                      "gpt4-api",
+                      "huggingface",
+                      "instruction-tuning",
+                      "large-language-models",
+                      "llama",
+                      "mplug",
+                      "mplug-owl",
+                      "multimodal",
+                      "pretraining",
+                      "pytorch",
+                      "transformer",
+                      "video",
+                      "visual-recognition"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -629,12 +1033,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)",
+                    "homepage": "https://minigpt-4.github.io",
                     "id": 628419800,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-09-02T09:07:21Z",
+                    "open_issues": 376,
                     "owner": "Vision-CAIR",
                     "repo": "MiniGPT-4",
-                    "stars": 25625
+                    "stars": 25625,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -645,12 +1054,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+                    "homepage": null,
                     "id": 528238131,
                     "language": "Jupyter Notebook",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-06-02T18:14:49Z",
+                    "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11262
+                    "stars": 11262,
+                    "topics": [
+                      "deep-learning",
+                      "deep-learning-library",
+                      "image-captioning",
+                      "multimodal-datasets",
+                      "multimodal-deep-learning",
+                      "salesforce",
+                      "vision-and-language",
+                      "vision-framework",
+                      "vision-language-pretraining",
+                      "vision-language-transformer",
+                      "visual-question-anwsering"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 }
@@ -668,12 +1094,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a state-of-the-art-level open visual language model | 多模态预训练模型",
+                    "homepage": null,
                     "id": 692935244,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-05-29T10:01:33Z",
+                    "open_issues": 67,
                     "owner": "zai-org",
                     "repo": "CogVLM",
-                    "stars": 6744
+                    "stars": 6744,
+                    "topics": [
+                      "cross-modality",
+                      "language-model",
+                      "multi-modal",
+                      "pretrained-models",
+                      "visual-language-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -684,12 +1121,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+                    "homepage": "https://aka.ms/GeneralAI",
                     "id": 198350484,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T08:16:01Z",
+                    "open_issues": 684,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22196
+                    "stars": 22196,
+                    "topics": [
+                      "beit",
+                      "beit-3",
+                      "bitnet",
+                      "deepnet",
+                      "document-ai",
+                      "foundation-models",
+                      "kosmos",
+                      "kosmos-1",
+                      "layoutlm",
+                      "layoutxlm",
+                      "llm",
+                      "minilm",
+                      "mllm",
+                      "multimodal",
+                      "nlp",
+                      "pre-trained-model",
+                      "textdiffuser",
+                      "trocr",
+                      "unilm",
+                      "xlm-e"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -700,12 +1163,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+                    "homepage": "https://aka.ms/GeneralAI",
                     "id": 198350484,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T08:16:01Z",
+                    "open_issues": 684,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22196
+                    "stars": 22196,
+                    "topics": [
+                      "beit",
+                      "beit-3",
+                      "bitnet",
+                      "deepnet",
+                      "document-ai",
+                      "foundation-models",
+                      "kosmos",
+                      "kosmos-1",
+                      "layoutlm",
+                      "layoutxlm",
+                      "llm",
+                      "minilm",
+                      "mllm",
+                      "multimodal",
+                      "nlp",
+                      "pre-trained-model",
+                      "textdiffuser",
+                      "trocr",
+                      "unilm",
+                      "xlm-e"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 }
@@ -723,12 +1212,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1204476760,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-06T07:22:39Z",
+                    "open_issues": 3,
                     "owner": "LG-AI-EXAONE",
                     "repo": "EXAONE-4.5",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -739,12 +1233,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "mPLUG-Owl: The Powerful Multi-modal Large Language Model  Family",
+                    "homepage": "https://www.modelscope.cn/studios/damo/mPLUG-Owl",
                     "id": 632244130,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-04-02T12:30:45Z",
+                    "open_issues": 101,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
-                    "stars": 2539
+                    "stars": 2539,
+                    "topics": [
+                      "alpaca",
+                      "chatbot",
+                      "chatgpt",
+                      "damo",
+                      "dialogue",
+                      "gpt",
+                      "gpt4",
+                      "gpt4-api",
+                      "huggingface",
+                      "instruction-tuning",
+                      "large-language-models",
+                      "llama",
+                      "mplug",
+                      "mplug-owl",
+                      "multimodal",
+                      "pretraining",
+                      "pytorch",
+                      "transformer",
+                      "video",
+                      "visual-recognition"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -755,12 +1275,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding",
+                    "homepage": null,
                     "id": 661919338,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-05-30T05:52:43Z",
+                    "open_issues": 73,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-DocOwl",
-                    "stars": 2411
+                    "stars": 2411,
+                    "topics": [
+                      "chart-understanding",
+                      "document-understanding",
+                      "mllm",
+                      "multimodal",
+                      "multimodal-large-language-models",
+                      "table-understanding"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 }
@@ -783,12 +1315,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone",
+                "homepage": null,
                 "id": 749647889,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T09:50:07Z",
+                "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26252
+                "stars": 26253,
+                "topics": [
+                  "minicpm",
+                  "minicpm-o",
+                  "minicpm-v",
+                  "multi-modal"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -799,12 +1341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalable toolkit for efficient model reinforcement",
+                "homepage": "https://docs.nvidia.com/nemo/rl/latest/index.html",
                 "id": 949546994,
                 "language": "Python",
-                "last_commit": "2026-08-28T22:54:01Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:27:56Z",
+                "open_issues": 1029,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
-                "stars": 1968
+                "stars": 1968,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -815,12 +1362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OmniGAIA: Towards Native Omni-Modal AI Agents",
+                "homepage": null,
                 "id": 1138005725,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-02T09:56:08Z",
+                "open_issues": 1,
                 "owner": "RUC-NLPIR",
                 "repo": "OmniGAIA",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -831,12 +1383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Uni-MoE: Lychee's Large Multimodal Model Family.",
+                "homepage": "https://idealistxy.github.io/Uni-MoE-v2.github.io/",
                 "id": 766816164,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-06T10:50:45Z",
+                "open_issues": 29,
                 "owner": "HITsz-TMG",
                 "repo": "Uni-MoE",
-                "stars": 1116
+                "stars": 1116,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -847,12 +1404,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Pytorch implementation of \"Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large Language Models\" [IEEE ICASSP 2026].",
+                "homepage": "https://umbertocappellazzo.github.io/Omni-AVSR/",
                 "id": 1042637735,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-20T19:57:41Z",
+                "open_issues": 1,
                 "owner": "umbertocappellazzo",
                 "repo": "Omni-AVSR",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "audio-visual-speech-recognition",
+                  "large-language-models"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -863,12 +1428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official repo for the paper \"LongCat-Flash-Omni Technical Report\"",
+                "homepage": null,
                 "id": 1082563285,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-09T10:22:12Z",
+                "open_issues": 21,
                 "owner": "meituan-longcat",
                 "repo": "LongCat-Flash-Omni",
-                "stars": 506
+                "stars": 506,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -879,12 +1449,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OmniVinci is an omni-modal LLM for joint understanding of vision, audio, and language.",
+                "homepage": "https://nvlabs.github.io/OmniVinci/",
                 "id": 1063632891,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-26T01:39:42Z",
+                "open_issues": 8,
                 "owner": "NVlabs",
                 "repo": "OmniVinci",
-                "stars": 677
+                "stars": 677,
+                "topics": [
+                  "audio-language-model",
+                  "deep-learning",
+                  "large-language-models",
+                  "multimodal-large-language-models",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -895,12 +1476,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1076582627,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-12-03T10:51:45Z",
+                "open_issues": 4,
                 "owner": "SenseTime-FVG",
                 "repo": "InteractiveOmni",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -911,12 +1497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time.",
+                "homepage": null,
                 "id": 1061125458,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-23T10:58:01Z",
+                "open_issues": 8,
                 "owner": "QwenLM",
                 "repo": "Qwen3-Omni",
-                "stars": 3985
+                "stars": 3985,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -927,12 +1518,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qwen2.5-Omni is an end-to-end multimodal model by Qwen team at Alibaba Cloud, capable of understanding text, audio, vision, video, and performing real-time speech generation.",
+                "homepage": null,
                 "id": 952842018,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-12T11:03:07Z",
+                "open_issues": 222,
                 "owner": "QwenLM",
                 "repo": "Qwen2.5-Omni",
-                "stars": 4074
+                "stars": 4074,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -943,12 +1539,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone",
+                "homepage": null,
                 "id": 749647889,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T09:50:07Z",
+                "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26252
+                "stars": 26253,
+                "topics": [
+                  "minicpm",
+                  "minicpm-o",
+                  "minicpm-v",
+                  "multi-modal"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -959,12 +1565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Baichuan-Omni: Towards Capable Open-source Omni-modal LLM 🌊",
+                "homepage": "https://arxiv.org/abs/2410.08565",
                 "id": 865295714,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-01-27T02:54:33Z",
+                "open_issues": 4,
                 "owner": "westlake-baichuan-mllm",
                 "repo": "bc-omni",
-                "stars": 272
+                "stars": 272,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -975,12 +1586,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 921195890,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-08T08:03:13Z",
+                "open_issues": 13,
                 "owner": "baichuan-inc",
                 "repo": "Baichuan-Omni-1.5",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -991,12 +1607,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨✨[NeurIPS 2025] VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction",
+                "homepage": null,
                 "id": 840678954,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-28T00:56:46Z",
+                "open_issues": 59,
                 "owner": "VITA-MLLM",
                 "repo": "VITA",
-                "stars": 2534
+                "stars": 2534,
+                "topics": [
+                  "large-multimodal-models",
+                  "multimodal-large-language-models",
+                  "omni-language-model",
+                  "omni-modal-video-understanding",
+                  "omni-model"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -1007,12 +1634,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨✨[NeurIPS 2025] VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction",
+                "homepage": null,
                 "id": 840678954,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-03-28T00:56:46Z",
+                "open_issues": 59,
                 "owner": "VITA-MLLM",
                 "repo": "VITA",
-                "stars": 2534
+                "stars": 2534,
+                "topics": [
+                  "large-multimodal-models",
+                  "multimodal-large-language-models",
+                  "omni-language-model",
+                  "omni-modal-video-understanding",
+                  "omni-model"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -1023,12 +1661,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities。",
+                "homepage": "https://arxiv.org/abs/2410.11190",
                 "id": 872524976,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-16T14:20:25Z",
+                "open_issues": 34,
                 "owner": "gpt-omni",
                 "repo": "mini-omni2",
-                "stars": 1924
+                "stars": 1924,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -1039,12 +1682,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ola: Pushing the Frontiers of Omni-Modal Language Model",
+                "homepage": "https://ola-omni.github.io",
                 "id": 926711891,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-13T04:04:18Z",
+                "open_issues": 30,
                 "owner": "Ola-Omni",
                 "repo": "Ola",
-                "stars": 396
+                "stars": 396,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -1055,12 +1703,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MIO: A Foundation Model on Multimodal Tokens",
+                "homepage": null,
                 "id": 879578769,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-13T08:43:04Z",
+                "open_issues": 2,
                 "owner": "MIO-Team",
                 "repo": "MIO",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -1071,12 +1724,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of EMOVA in CVPR 2025 (https://arxiv.org/abs/2409.18042)",
+                "homepage": "https://emova-ollm.github.io/",
                 "id": 947794390,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-16T03:19:54Z",
+                "open_issues": 0,
                 "owner": "emova-ollm",
                 "repo": "EMOVA",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -1087,12 +1745,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stream-Omni is a GPT-4o-like language-vision-speech chatbot that simultaneously supports interaction across various modality combinations.",
+                "homepage": "https://arxiv.org/abs/2506.13642",
                 "id": 1003107219,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-17T13:48:19Z",
+                "open_issues": 6,
                 "owner": "ictnlp",
                 "repo": "Stream-Omni",
-                "stars": 392
+                "stars": 392,
+                "topics": [
+                  "asr",
+                  "chatbot",
+                  "chatgpt",
+                  "gpt-4o",
+                  "interaction",
+                  "large-language-models",
+                  "large-multimodal-models",
+                  "llama",
+                  "llm",
+                  "mutlimodal",
+                  "question-answering",
+                  "speech",
+                  "speech-recognition",
+                  "speech-synthesis",
+                  "speech-to-text",
+                  "tts",
+                  "vision",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -1103,12 +1785,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025 Spotlight] A Native Multimodal LLM for 3D Generation and Understanding",
+                "homepage": "https://jamesyjl.github.io/ShapeLLM/",
                 "id": 994323054,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-20T05:14:11Z",
+                "open_issues": 11,
                 "owner": "JAMESYJL",
                 "repo": "ShapeLLM-Omni",
-                "stars": 575
+                "stars": 575,
+                "topics": [
+                  "3d-captioning",
+                  "3d-editing",
+                  "image-to-3d",
+                  "llm",
+                  "text-to-3d"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -1119,12 +1812,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Audio Language model for Audio Tasks",
+                "homepage": "https://arxiv.org/abs/2305.11834",
                 "id": 642904667,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-19T16:29:11Z",
+                "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "Pengi",
-                "stars": 322
+                "stars": 322,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -1135,12 +1833,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code, Dataset, and Pretrained Models for Audio and Speech Large Language Model \"Listen, Think, and Understand\".",
+                "homepage": null,
                 "id": 643005437,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-24T04:21:47Z",
+                "open_issues": 48,
                 "owner": "YuanGongND",
                 "repo": "ltu",
-                "stars": 478
+                "stars": 478,
+                "topics": [
+                  "audio",
+                  "audio-processing",
+                  "deep-learning",
+                  "large-language-models",
+                  "speech-recognition"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             }
@@ -1166,12 +1875,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LLaDA2.0-Uni: Understanding and Generation the World. ",
+                    "homepage": null,
                     "id": 1213311333,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-29T07:06:33Z",
+                    "open_issues": 7,
                     "owner": "inclusionAI",
                     "repo": "LLaDA2.0-Uni",
-                    "stars": 693
+                    "stars": 693,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -1182,12 +1896,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for D-DiT",
+                    "homepage": null,
                     "id": 941665504,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2025-04-01T15:40:54Z",
+                    "open_issues": 4,
                     "owner": "zijieli-Jlee",
                     "repo": "Dual-Diffusion",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -1198,12 +1917,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "UniDisc: A discrete diffusion model for joint multimodal generation, enabling controllable and efficient text-image synthesis, editing, and inpainting.",
+                    "homepage": "https://unidisc.github.io/",
                     "id": 950835377,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-04-02T23:14:32Z",
+                    "open_issues": 3,
                     "owner": "alexanderswerdlow",
                     "repo": "unidisc",
-                    "stars": 142
+                    "stars": 142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -1214,12 +1938,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MMaDA - Open-Sourced Multimodal Large Diffusion Language Models (dLLMs with block diffusion, mixed-CoT, unified RL)",
+                    "homepage": "https://openreview.net/forum?id=wczmXLuLGd",
                     "id": 987541636,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-02-14T05:50:05Z",
+                    "open_issues": 47,
                     "owner": "Gen-Verse",
                     "repo": "MMaDA",
-                    "stars": 1670
+                    "stars": 1670,
+                    "topics": [
+                      "diffusion-models",
+                      "llm-reasoning",
+                      "unified-multimodal-understanding-and-generation"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -1230,12 +1963,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2026] Official Implementation of Muddit [Meissonic II]: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model.",
+                    "homepage": null,
                     "id": 988992040,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-04-13T07:48:25Z",
+                    "open_issues": 0,
                     "owner": "M-E-AGI-Lab",
                     "repo": "Muddit",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 },
@@ -1246,12 +1984,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1080678707,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-12-01T18:34:09Z",
+                    "open_issues": 1,
                     "owner": "adobe-research",
                     "repo": "LaVida-O",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
                 }
@@ -1271,12 +2014,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Repository for Meta Chameleon, a mixed-modal early-fusion foundation model from FAIR.",
+                        "homepage": "https://arxiv.org/abs/2405.09818",
                         "id": 816538211,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2024-07-29T22:36:44Z",
+                        "open_issues": 6,
                         "owner": "facebookresearch",
                         "repo": "chameleon",
-                        "stars": 2103
+                        "stars": 2103,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1287,12 +2035,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[Extended verision ICLR 2025 Blog Track] Anole: An Open, Autoregressive and Native Multimodal Models for Interleaved Image-Text Generation",
+                        "homepage": "https://huggingface.co/spaces/ethanchern/Anole",
                         "id": 822624501,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-06-16T05:51:08Z",
+                        "open_issues": 36,
                         "owner": "GAIR-NLP",
                         "repo": "anole",
-                        "stars": 843
+                        "stars": 843,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1303,12 +2056,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 891875058,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-05-15T03:46:19Z",
+                        "open_issues": 6,
                         "owner": "SJTU-DENG-Lab",
                         "repo": "Orthus",
-                        "stars": 89
+                        "stars": 89,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1319,12 +2077,27 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "(Accepted by IJCV) Liquid: Language Models are Scalable and Unified Multi-modal Generators",
+                        "homepage": "https://foundationvision.github.io/Liquid/",
                         "id": 902419239,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-06-01T22:05:17Z",
+                        "open_issues": 12,
                         "owner": "FoundationVision",
                         "repo": "Liquid",
-                        "stars": 640
+                        "stars": 640,
+                        "topics": [
+                          "autoregressive-models",
+                          "generative",
+                          "generative-ai",
+                          "image-gen",
+                          "large-language-models",
+                          "llms",
+                          "multimodal-large-language-models",
+                          "text-to-image",
+                          "text-to-image-generation"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1335,12 +2108,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ICCV2025]Code Release of Harmonizing Visual Representations for Unified Multimodal Understanding and Generation",
+                        "homepage": null,
                         "id": 954472990,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-05-21T03:58:26Z",
+                        "open_issues": 9,
                         "owner": "wusize",
                         "repo": "Harmon",
-                        "stars": 193
+                        "stars": 193,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1351,12 +2129,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation",
+                        "homepage": "https://arxiv.org/abs/2505.05422",
                         "id": 979921063,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-08-18T13:16:57Z",
+                        "open_issues": 8,
                         "owner": "TencentARC",
                         "repo": "TokLIP",
-                        "stars": 236
+                        "stars": 236,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1367,12 +2150,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning",
+                        "homepage": null,
                         "id": 985053215,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-05-30T09:41:39Z",
+                        "open_issues": 6,
                         "owner": "selftok-team",
                         "repo": "SelftokTokenizer",
-                        "stars": 239
+                        "stars": 239,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1383,12 +2171,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation",
+                        "homepage": "https://onecat-ai.github.io/",
                         "id": 1049055445,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-09-22T11:12:41Z",
+                        "open_issues": 5,
                         "owner": "onecat-ai",
                         "repo": "OneCAT",
-                        "stars": 261
+                        "stars": 261,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1399,12 +2192,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ICLR 2026] Uni-X: Mitigating Modality Conflict with a Two-End-Separated Architecture for Unified Multimodal Models",
+                        "homepage": null,
                         "id": 1063949300,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-04-01T08:31:45Z",
+                        "open_issues": 1,
                         "owner": "CURRENTF",
                         "repo": "Uni-X",
-                        "stars": 10
+                        "stars": 10,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     }
@@ -1422,12 +2220,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code release for Ming-UniVision: Joint Image Understanding and Geneation with a Continuous Unified Tokenizer",
+                        "homepage": null,
                         "id": 1067102698,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-10-14T13:38:52Z",
+                        "open_issues": 4,
                         "owner": "inclusionAI",
                         "repo": "Ming-UniVision",
-                        "stars": 143
+                        "stars": 143,
+                        "topics": [
+                          "image",
+                          "image-editing",
+                          "image-generation",
+                          "image-understanding",
+                          "unified-model"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1438,12 +2247,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official implementation of Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents (NeurIPS 2025)",
+                        "homepage": null,
                         "id": 1031678372,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-11-24T22:28:26Z",
+                        "open_issues": 2,
                         "owner": "HL-hanlin",
                         "repo": "Bifrost-1",
-                        "stars": 47
+                        "stars": 47,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1454,12 +2268,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.",
+                        "homepage": null,
                         "id": 1031256025,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-02-10T07:37:37Z",
+                        "open_issues": 237,
                         "owner": "QwenLM",
                         "repo": "Qwen-Image",
-                        "stars": 8274
+                        "stars": 8274,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1470,12 +2289,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official inference code and LongText-Bench benchmark for our paper X-Omni (https://arxiv.org/pdf/2507.22058).",
+                        "homepage": "https://arxiv.org/pdf/2507.22058",
                         "id": 1028340729,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-08-26T03:03:24Z",
+                        "open_issues": 7,
                         "owner": "X-Omni-Team",
                         "repo": "X-Omni",
-                        "stars": 428
+                        "stars": 428,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1486,12 +2310,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "An unified model that seamlessly integrates multimodal understanding, text-to-image generation, and image editing within a single powerful framework.",
+                        "homepage": null,
                         "id": 992512658,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-12-02T07:27:00Z",
+                        "open_issues": 3,
                         "owner": "ATH-MaaS",
                         "repo": "Ovis-U1",
-                        "stars": 452
+                        "stars": 452,
+                        "topics": [
+                          "image-editing",
+                          "multimodal-large-language-models",
+                          "text-to-image"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1502,12 +2335,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "OmniGen2: Exploration to Advanced Multimodal Generation. https://arxiv.org/abs/2506.18871",
+                        "homepage": null,
                         "id": 997256882,
                         "language": "Jupyter Notebook",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-03-20T07:21:13Z",
+                        "open_issues": 100,
                         "owner": "VectorSpaceLab",
                         "repo": "OmniGen2",
-                        "stars": 4111
+                        "stars": 4111,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1518,12 +2356,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS 2025] Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations",
+                        "homepage": "https://tar.csuhan.com",
                         "id": 993030014,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-09-18T14:05:50Z",
+                        "open_issues": 12,
                         "owner": "csuhan",
                         "repo": "Tar",
-                        "stars": 202
+                        "stars": 202,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1534,12 +2377,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation",
+                        "homepage": null,
                         "id": 1004983176,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-08-26T03:58:28Z",
+                        "open_issues": 4,
                         "owner": "tliby",
                         "repo": "UniFork",
-                        "stars": 48
+                        "stars": 48,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1550,12 +2398,27 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation",
+                        "homepage": "https://arxiv.org/abs/2506.03147",
                         "id": 892073402,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-12-23T06:23:48Z",
+                        "open_issues": 15,
                         "owner": "PKU-YuanGroup",
                         "repo": "UniWorld",
-                        "stars": 890
+                        "stars": 890,
+                        "topics": [
+                          "diffusion",
+                          "high-level-feature",
+                          "image-editing",
+                          "image-understanding",
+                          "low-level-vision",
+                          "text-to-image-generation",
+                          "unify",
+                          "unify-ai",
+                          "vlm"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1566,12 +2429,27 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS 2025 Spotlight] A Unified Tokenizer for Visual Generation and Understanding",
+                        "homepage": "https://foundationvision.github.io/UniTok/",
                         "id": 939870671,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-11-14T23:44:15Z",
+                        "open_issues": 17,
                         "owner": "FoundationVision",
                         "repo": "UniTok",
-                        "stars": 530
+                        "stars": 530,
+                        "topics": [
+                          "autoregressive-models",
+                          "generative",
+                          "generative-ai",
+                          "generative-model",
+                          "image-generation",
+                          "image-tokenizer",
+                          "large-language-models",
+                          "text-to-image",
+                          "tokenizer"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1582,12 +2460,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[arXiv: 2502.05178] QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation",
+                        "homepage": "https://nvlabs.github.io/QLIP/",
                         "id": 928064489,
                         "language": "Jupyter Notebook",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-03-01T08:48:03Z",
+                        "open_issues": 3,
                         "owner": "NVlabs",
                         "repo": "QLIP",
-                        "stars": 97
+                        "stars": 97,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1598,12 +2481,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Empowering Unified MLLM with Multi-granular Visual Generation",
+                        "homepage": null,
                         "id": 871062754,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-01-16T06:42:27Z",
+                        "open_issues": 4,
                         "owner": "rongyaofang",
                         "repo": "PUMA",
-                        "stars": 132
+                        "stars": 132,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1614,12 +2502,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ICLR 2025] VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation",
+                        "homepage": null,
                         "id": 877024785,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-04-25T18:45:25Z",
+                        "open_issues": 19,
                         "owner": "mit-han-lab",
                         "repo": "vila-u",
-                        "stars": 428
+                        "stars": 428,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1630,12 +2523,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official repo for \"Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models\"",
+                        "homepage": null,
                         "id": 777812139,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2024-05-04T14:36:51Z",
+                        "open_issues": 61,
                         "owner": "JIA-Lab-research",
                         "repo": "MGM",
-                        "stars": 3327
+                        "stars": 3327,
+                        "topics": [
+                          "generation",
+                          "large-language-models",
+                          "vision-language-model"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1646,12 +2548,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal Feature Synchronizer ",
+                        "homepage": null,
                         "id": 744938845,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2024-04-03T03:09:27Z",
+                        "open_issues": 7,
                         "owner": "OpenGVLab",
                         "repo": "MM-Interleaved",
-                        "stars": 257
+                        "stars": 257,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1662,12 +2569,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "LaVIT: Empower the Large Language Model to Understand and Generate Visual Content",
+                        "homepage": null,
                         "id": 689177560,
                         "language": "Jupyter Notebook",
+                        "license": "NOASSERTION",
                         "last_commit": "2024-10-06T15:53:07Z",
+                        "open_issues": 12,
                         "owner": "jy0205",
                         "repo": "LaVIT",
-                        "stars": 604
+                        "stars": 604,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     }
@@ -1685,12 +2597,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 992746688,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-06-27T02:23:29Z",
+                        "open_issues": 8,
                         "owner": "wusize",
                         "repo": "OpenUni",
-                        "stars": 189
+                        "stars": 189,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1701,12 +2618,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 973457298,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-07-29T05:50:23Z",
+                        "open_issues": 16,
                         "owner": "modelscope",
                         "repo": "Nexus-Gen",
-                        "stars": 291
+                        "stars": 291,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1717,12 +2639,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official Implementation of Paper Transfer between Modalities with MetaQueries",
+                        "homepage": "https://xichenpan.com/metaquery/",
                         "id": 1003949066,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-10-12T06:54:53Z",
+                        "open_issues": 3,
                         "owner": "facebookresearch",
                         "repo": "metaquery",
-                        "stars": 326
+                        "stars": 326,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1733,12 +2660,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Multimodal Models in Real World",
+                        "homepage": null,
                         "id": 779567940,
                         "language": "Jupyter Notebook",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-02-24T11:57:44Z",
+                        "open_issues": 29,
                         "owner": "AILab-CVC",
                         "repo": "SEED-X",
-                        "stars": 558
+                        "stars": 558,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1749,12 +2681,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official implementation of SEED-LLaMA (ICLR 2024).",
+                        "homepage": "https://ailab-cvc.github.io/seed",
                         "id": 666655722,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2024-09-21T15:13:36Z",
+                        "open_issues": 34,
                         "owner": "AILab-CVC",
                         "repo": "SEED",
-                        "stars": 642
+                        "stars": 642,
+                        "topics": [
+                          "foundation-model",
+                          "multimodal",
+                          "vision-language"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1765,12 +2706,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official implementation of SEED-LLaMA (ICLR 2024).",
+                        "homepage": "https://ailab-cvc.github.io/seed",
                         "id": 666655722,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2024-09-21T15:13:36Z",
+                        "open_issues": 34,
                         "owner": "AILab-CVC",
                         "repo": "SEED",
-                        "stars": 642
+                        "stars": 642,
+                        "topics": [
+                          "foundation-model",
+                          "multimodal",
+                          "vision-language"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     }
@@ -1788,12 +2738,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[NeurIPS2025] The official implementation of MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO",
+                        "homepage": null,
                         "id": 986047523,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-10-15T03:38:29Z",
+                        "open_issues": 2,
                         "owner": "TencentARC",
                         "repo": "MindOmni",
-                        "stars": 140
+                        "stars": 140,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1804,12 +2759,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ECCV 2026] OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models",
+                        "homepage": null,
                         "id": 946525636,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-07-27T03:48:06Z",
+                        "open_issues": 4,
                         "owner": "hustvl",
                         "repo": "OmniMamba",
-                        "stars": 126
+                        "stars": 126,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1820,12 +2780,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+                        "homepage": null,
                         "id": 874559208,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-02-01T07:58:29Z",
+                        "open_issues": 180,
                         "owner": "deepseek-ai",
                         "repo": "Janus",
-                        "stars": 17761
+                        "stars": 17761,
+                        "topics": [
+                          "any-to-any",
+                          "foundation-models",
+                          "llm",
+                          "multimodal",
+                          "unified-model",
+                          "vision-language-pretraining"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1836,12 +2808,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+                        "homepage": null,
                         "id": 874559208,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2025-02-01T07:58:29Z",
+                        "open_issues": 180,
                         "owner": "deepseek-ai",
                         "repo": "Janus",
-                        "stars": 17761
+                        "stars": 17761,
+                        "topics": [
+                          "any-to-any",
+                          "foundation-models",
+                          "llm",
+                          "multimodal",
+                          "unified-model",
+                          "vision-language-pretraining"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     }
@@ -1859,12 +2843,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 1080930021,
                         "language": "Jupyter Notebook",
+                        "license": "NOASSERTION",
                         "last_commit": "2025-11-08T21:09:21Z",
+                        "open_issues": 8,
                         "owner": "apple",
                         "repo": "ml-atoken",
-                        "stars": 148
+                        "stars": 148,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1875,12 +2864,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ECCV 2026] Towards Scalable Pre-training of Visual Tokenizers for Generation",
+                        "homepage": "https://huggingface.co/collections/MiniMaxAI/vtp",
                         "id": 1114410352,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-04-15T07:09:46Z",
+                        "open_issues": 8,
                         "owner": "MiniMax-AI",
                         "repo": "VTP",
-                        "stars": 502
+                        "stars": 502,
+                        "topics": [
+                          "diffusion-model",
+                          "visual-generation",
+                          "visual-tokenizer"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1891,12 +2889,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official repo for UAE [ECCV 2026]",
+                        "homepage": null,
                         "id": 1120913708,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2026-07-28T13:08:52Z",
+                        "open_issues": 0,
                         "owner": "WeichenFan",
                         "repo": "UAE",
-                        "stars": 211
+                        "stars": 211,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1907,12 +2910,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ICLR & NeurIPS 2025] Repository for Show-o series, One Single Transformer to Unify Multimodal Understanding and Generation.",
+                        "homepage": "https://arxiv.org/abs/2408.12528",
                         "id": 840162905,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-01-08T16:30:37Z",
+                        "open_issues": 71,
                         "owner": "showlab",
                         "repo": "Show-o",
-                        "stars": 1974
+                        "stars": 1974,
+                        "topics": [
+                          "diffusion-models",
+                          "large-language-models",
+                          "multimodal"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1923,12 +2935,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPRW 2025] UniToken is an auto-regressive generation model that combines discrete and continuous representations to process visual inputs, making it easy to integrate both visual understanding and image generation tasks seamlessly.",
+                        "homepage": null,
                         "id": 925909928,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-04-23T02:24:35Z",
+                        "open_issues": 3,
                         "owner": "SxJyJay",
                         "repo": "UniToken",
-                        "stars": 106
+                        "stars": 106,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1939,12 +2956,20 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "VARGPT-v1.1: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning",
+                        "homepage": "https://vargpt1-1.github.io/",
                         "id": 958534640,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-04-15T10:41:09Z",
+                        "open_issues": 23,
                         "owner": "VARGPT-family",
                         "repo": "VARGPT-v1.1",
-                        "stars": 271
+                        "stars": 271,
+                        "topics": [
+                          "mllm",
+                          "unified-model"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1955,12 +2980,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR2025] Official Implementation of ILLUME+",
+                        "homepage": null,
                         "id": 959504464,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-08-20T15:25:16Z",
+                        "open_issues": 0,
                         "owner": "illume-unified-mllm",
                         "repo": "ILLUME_plus",
-                        "stars": 126
+                        "stars": 126,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1971,12 +3001,20 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model",
+                        "homepage": "https://vargpt1-1.github.io/",
                         "id": 920089405,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-04-17T14:11:16Z",
+                        "open_issues": 3,
                         "owner": "VARGPT-family",
                         "repo": "VARGPT",
-                        "stars": 326
+                        "stars": 326,
+                        "topics": [
+                          "mllm",
+                          "unified-model"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -1987,12 +3025,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR 2025] 🔥 Official impl. of \"TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation\".",
+                        "homepage": "https://arxiv.org/abs/2412.03069",
                         "id": 897823812,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-08-08T08:32:28Z",
+                        "open_issues": 9,
                         "owner": "ByteVisionLab",
                         "repo": "TokenFlow",
-                        "stars": 464
+                        "stars": 464,
+                        "topics": [
+                          "large-language-models",
+                          "multimodal-understanding",
+                          "text-to-image-generation",
+                          "vector-quantization"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     }
@@ -2017,12 +3065,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ICLR & NeurIPS 2025] Repository for Show-o series, One Single Transformer to Unify Multimodal Understanding and Generation.",
+                        "homepage": "https://arxiv.org/abs/2408.12528",
                         "id": 840162905,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-01-08T16:30:37Z",
+                        "open_issues": 71,
                         "owner": "showlab",
                         "repo": "Show-o",
-                        "stars": 1974
+                        "stars": 1974,
+                        "topics": [
+                          "diffusion-models",
+                          "large-language-models",
+                          "multimodal"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     }
@@ -2040,12 +3097,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 1015966087,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2026-02-28T14:22:01Z",
+                        "open_issues": 11,
                         "owner": "SAIS-FUXI",
                         "repo": "Omni-Video",
-                        "stars": 162
+                        "stars": 162,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -2056,12 +3118,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "InternVL-U is a 4B-parameter unified multimodal model (UMM) that brings multimodal understanding, reasoning, image generation, image editing into a single framework.",
+                        "homepage": null,
                         "id": 1173534698,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-03-21T15:27:52Z",
+                        "open_issues": 9,
                         "owner": "OpenGVLab",
                         "repo": "InternVL-U",
-                        "stars": 296
+                        "stars": 296,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -2072,12 +3139,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official repo for paper \"EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture.\"",
+                        "homepage": null,
                         "id": 1110706645,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-12-16T11:28:27Z",
+                        "open_issues": 3,
                         "owner": "umm-emma",
                         "repo": "emma",
-                        "stars": 62
+                        "stars": 62,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     },
@@ -2088,12 +3160,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Open-source unified multimodal model",
+                        "homepage": null,
                         "id": 967889784,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-05-04T17:01:02Z",
+                        "open_issues": 154,
                         "owner": "ByteDance-Seed",
                         "repo": "Bagel",
-                        "stars": 6160
+                        "stars": 6160,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
                     }
@@ -2121,12 +3198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official repo for the paper \"LongCat-Flash-Omni Technical Report\"",
+                "homepage": null,
                 "id": 1082563285,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-09T10:22:12Z",
+                "open_issues": 21,
                 "owner": "meituan-longcat",
                 "repo": "LongCat-Flash-Omni",
-                "stars": 506
+                "stars": 506,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2137,12 +3219,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ming - facilitating advanced multimodal understanding and generation capabilities built upon the Ling LLM.",
+                "homepage": null,
                 "id": 969946579,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-07-27T11:52:51Z",
+                "open_issues": 25,
                 "owner": "inclusionAI",
                 "repo": "Ming",
-                "stars": 669
+                "stars": 669,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2153,12 +3240,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time.",
+                "homepage": null,
                 "id": 1061125458,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-23T10:58:01Z",
+                "open_issues": 8,
                 "owner": "QwenLM",
                 "repo": "Qwen3-Omni",
-                "stars": 3985
+                "stars": 3985,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2169,12 +3261,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ming - facilitating advanced multimodal understanding and generation capabilities built upon the Ling LLM.",
+                "homepage": null,
                 "id": 969946579,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-07-27T11:52:51Z",
+                "open_issues": 25,
                 "owner": "inclusionAI",
                 "repo": "Ming",
-                "stars": 669
+                "stars": 669,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2185,12 +3282,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for paper \"Spider: Any-to-Many Multimodal LLM\"",
+                "homepage": null,
                 "id": 924730525,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-26T15:27:14Z",
+                "open_issues": 3,
                 "owner": "Layjins",
                 "repo": "Spider",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2201,12 +3303,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 730854277,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-15T23:57:13Z",
+                "open_issues": 3,
                 "owner": "allenai",
                 "repo": "unified-io-2",
-                "stars": 648
+                "stars": 648,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2217,12 +3324,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and models for ICML 2024 paper, NExT-GPT: Any-to-Any Multimodal Large Language Model",
+                "homepage": "https://next-gpt.github.io/",
                 "id": 684881857,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-05-13T09:57:47Z",
+                "open_issues": 81,
                 "owner": "NExT-GPT",
                 "repo": "NExT-GPT",
-                "stars": 3637
+                "stars": 3636,
+                "topics": [
+                  "chatgpt",
+                  "foundation-models",
+                  "gpt-4",
+                  "instruction-tuning",
+                  "large-language-models",
+                  "llm",
+                  "mllm",
+                  "multi-modal-chatgpt",
+                  "multimodal",
+                  "visual-language-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             }
@@ -2246,12 +3369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1072783568,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-10T01:27:18Z",
+                "open_issues": 0,
                 "owner": "OpenGVLab",
                 "repo": "NaViL",
-                "stars": 95
+                "stars": 95,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             }
@@ -2269,12 +3397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles",
+                "homepage": "https://huggingface.co/collections/sensenova/sensenova-u1",
                 "id": 1213108633,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T05:20:21Z",
+                "open_issues": 40,
                 "owner": "OpenSenseNova",
                 "repo": "SenseNova-U1",
-                "stars": 5766
+                "stars": 5775,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2285,12 +3418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Multimodal Models are World Learners",
+                "homepage": null,
                 "id": 1085767146,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-30T15:36:41Z",
+                "open_issues": 32,
                 "owner": "baaivision",
                 "repo": "Emu3.5",
-                "stars": 1547
+                "stars": 1547,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             }
@@ -2308,12 +3446,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
+                "homepage": "https://lance-project.github.io",
                 "id": 1239459771,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-14T13:17:31Z",
+                "open_issues": 17,
                 "owner": "bytedance",
                 "repo": "Lance",
-                "stars": 1331
+                "stars": 1331,
+                "topics": [
+                  "image-editing",
+                  "image-generation",
+                  "image-understanding",
+                  "unified-multimodal-models",
+                  "video-generation",
+                  "video-understanding"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2324,12 +3474,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fully Open Framework for Democratized Multimodal Training",
+                "homepage": "https://evolvinglmms-lab.github.io/LLaVA-OneVision-2/projects/index.html",
                 "id": 1058015331,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:59:02Z",
+                "open_issues": 65,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "LLaVA-OneVision-2",
-                "stars": 1194
+                "stars": 1194,
+                "topics": [
+                  "llava",
+                  "llava-onevision",
+                  "llm",
+                  "mllm",
+                  "qwen3",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2340,12 +3502,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fully Open Framework for Democratized Multimodal Training",
+                "homepage": "https://evolvinglmms-lab.github.io/LLaVA-OneVision-2/projects/index.html",
                 "id": 1058015331,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:59:02Z",
+                "open_issues": 65,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "LLaVA-OneVision-2",
-                "stars": 1194
+                "stars": 1194,
+                "topics": [
+                  "llava",
+                  "llava-onevision",
+                  "llm",
+                  "mllm",
+                  "qwen3",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2356,12 +3530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Next-Token Prediction is All You Need",
+                "homepage": "https://emu.baai.ac.cn",
                 "id": 863473384,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-12T08:39:22Z",
+                "open_issues": 66,
                 "owner": "baaivision",
                 "repo": "Emu3",
-                "stars": 2441
+                "stars": 2441,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             }
@@ -2379,12 +3558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1255737222,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-11T09:08:38Z",
+                "open_issues": 24,
                 "owner": "MiniMax-AI",
                 "repo": "MiniMax-M3",
-                "stars": 473
+                "stars": 473,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             }
@@ -2408,12 +3592,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reading list for research topics in multimodal machine learning",
+                "homepage": null,
                 "id": 188919037,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-08-20T19:46:33Z",
+                "open_issues": 13,
                 "owner": "pliang279",
                 "repo": "awesome-multimodal-ml",
-                "stars": 6924
+                "stars": 6924,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "healthcare",
+                  "machine-learning",
+                  "multimodal-learning",
+                  "natural-language-processing",
+                  "reading-list",
+                  "reinforcement-learning",
+                  "representation-learning",
+                  "robotics",
+                  "speech-processing"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2424,12 +3625,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
+                "homepage": null,
                 "id": 642642539,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-27T01:08:08Z",
+                "open_issues": 111,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 17993
+                "stars": 17994,
+                "topics": [
+                  "chain-of-thought",
+                  "in-context-learning",
+                  "instruction-following",
+                  "instruction-tuning",
+                  "large-language-models",
+                  "large-vision-language-model",
+                  "large-vision-language-models",
+                  "multi-modality",
+                  "multimodal-chain-of-thought",
+                  "multimodal-in-context-learning",
+                  "multimodal-instruction-tuning",
+                  "multimodal-large-language-models",
+                  "visual-instruction-tuning"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2440,12 +3660,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Multimodal Related Research.",
+                "homepage": null,
                 "id": 199870084,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-05T05:44:56Z",
+                "open_issues": 1,
                 "owner": "Eurus-Holmes",
                 "repo": "Awesome-Multimodal-Research",
-                "stars": 1394
+                "stars": 1394,
+                "topics": [
+                  "awesome",
+                  "multimodal",
+                  "multimodal-learning",
+                  "multimodal-research"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2456,12 +3686,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📖 This is a repository for organizing papers, codes and other resources related to unified multimodal models.",
+                "homepage": null,
                 "id": 848270446,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-10-10T14:52:51Z",
+                "open_issues": 8,
                 "owner": "showlab",
                 "repo": "Awesome-Unified-Multimodal-Models",
-                "stars": 830
+                "stars": 830,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2472,12 +3707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reading notes about Multimodal Large Language Models, Large Language Models, and Diffusion Models",
+                "homepage": null,
                 "id": 779572858,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-07-14T04:00:28Z",
+                "open_issues": 4,
                 "owner": "yfzhang114",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 1195
+                "stars": 1195,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2488,12 +3728,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "👁️ + 💬 + 🎧  = 🤖 Curated list of top foundation and multimodal models! [Paper + Code + Examples + Tutorials]",
+                "homepage": null,
                 "id": 702093474,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-29T14:14:56Z",
+                "open_issues": 3,
                 "owner": "SkalskiP",
                 "repo": "awesome-foundation-and-multimodal-models",
-                "stars": 637
+                "stars": 637,
+                "topics": [
+                  "blip",
+                  "clip",
+                  "computer-vision",
+                  "foundational-models",
+                  "grounding-dino",
+                  "image-captioning",
+                  "llava",
+                  "multimodal",
+                  "nlp",
+                  "open-vocabulary-detection",
+                  "open-vocabulary-segmentation",
+                  "segment-anything",
+                  "zero-shot-detection"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2504,12 +3763,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Survey on multimodal learning research.",
+                "homepage": null,
                 "id": 408330439,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-08-22T04:33:03Z",
+                "open_issues": 0,
                 "owner": "Yutong-Zhou-cv",
                 "repo": "Awesome-Multimodality",
-                "stars": 332
+                "stars": 332,
+                "topics": [
+                  "awesome-list",
+                  "multimodal-deep-learning",
+                  "multimodality"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2520,12 +3788,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📖 This is a repository for organizing papers, codes, and other resources related to unified multimodal models.",
+                "homepage": null,
                 "id": 899615767,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-01-08T11:54:19Z",
+                "open_issues": 2,
                 "owner": "Purshow",
                 "repo": "Awesome-Unified-Multimodal",
-                "stars": 365
+                "stars": 365,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2536,12 +3809,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Unified Multimodal Models",
+                "homepage": null,
                 "id": 979128621,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-24T09:52:04Z",
+                "open_issues": 16,
                 "owner": "ATH-MaaS",
                 "repo": "Awesome-Unified-Multimodal-Models",
-                "stars": 1313
+                "stars": 1313,
+                "topics": [
+                  "multimodal-large-language-models",
+                  "multimodal-models",
+                  "text-to-image-generation",
+                  "unified-multimodal-models",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             }
@@ -2559,12 +3843,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A unified multimodal model toolkit",
+                "homepage": "https://aifrontierlab.github.io/TorchUMM/",
                 "id": 1200017679,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T01:17:06Z",
+                "open_issues": 2,
                 "owner": "AIFrontierLab",
                 "repo": "TorchUMM",
-                "stars": 584
+                "stars": 584,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2575,12 +3864,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One-for-All Multimodal Evaluation Toolkit Across Text, Image, Video, and Audio Tasks",
+                "homepage": "https://www.lmms-lab.com",
                 "id": 768612800,
                 "language": "Python",
-                "last_commit": "2026-08-28T14:33:44Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:43:34Z",
+                "open_issues": 58,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "lmms-eval",
-                "stars": 4381
+                "stars": 4382,
+                "topics": [
+                  "agi",
+                  "audio-evaluation",
+                  "benchmark",
+                  "evaluation",
+                  "large-language-models",
+                  "llm-evaluation",
+                  "multimodal",
+                  "multimodal-evaluation",
+                  "video-understanding",
+                  "vision-language-model",
+                  "vlm"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2591,12 +3897,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+                "homepage": null,
                 "id": 528238131,
                 "language": "Jupyter Notebook",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-02T18:14:49Z",
+                "open_issues": 499,
                 "owner": "salesforce",
                 "repo": "LAVIS",
-                "stars": 11262
+                "stars": 11262,
+                "topics": [
+                  "deep-learning",
+                  "deep-learning-library",
+                  "image-captioning",
+                  "multimodal-datasets",
+                  "multimodal-deep-learning",
+                  "salesforce",
+                  "vision-and-language",
+                  "vision-framework",
+                  "vision-language-pretraining",
+                  "vision-language-transformer",
+                  "visual-question-anwsering"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2607,12 +3930,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source framework for training large multimodal models.",
+                "homepage": null,
                 "id": 554523373,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-31T23:11:03Z",
+                "open_issues": 51,
                 "owner": "mlfoundations",
                 "repo": "open_flamingo",
-                "stars": 4117
+                "stars": 4117,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "flamingo",
+                  "in-context-learning",
+                  "language-model",
+                  "multimodal-learning",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2623,12 +3959,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Next-Generation Training Engine Built for Ultra-Large MoE Models",
+                "homepage": "https://xtuner.readthedocs.io/zh-cn/latest/",
                 "id": 664913876,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T08:17:26Z",
+                "open_issues": 364,
                 "owner": "InternLM",
                 "repo": "xtuner",
-                "stars": 5185
+                "stars": 5185,
+                "topics": [
+                  "agent",
+                  "deepseek-v3",
+                  "gpt-oss",
+                  "intern-s1",
+                  "internvl",
+                  "kimi-k2",
+                  "llm",
+                  "multimodal",
+                  "qwen3-moe",
+                  "qwen3-vl",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2639,12 +3992,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+                "homepage": "https://llamafactory.readthedocs.io",
                 "id": 646410686,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T10:50:57Z",
+                "open_issues": 1138,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74428
+                "stars": 74430,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "deepseek",
+                  "fine-tuning",
+                  "gemma",
+                  "gpt",
+                  "instruction-tuning",
+                  "large-language-models",
+                  "llama",
+                  "llama3",
+                  "llm",
+                  "lora",
+                  "moe",
+                  "nlp",
+                  "peft",
+                  "qlora",
+                  "quantization",
+                  "qwen",
+                  "rlhf",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2655,12 +4034,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenMMLab Foundational Library for Training Deep Learning Models",
+                "homepage": "https://mmengine.readthedocs.io/",
                 "id": 456857425,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-13T07:30:05Z",
+                "open_issues": 263,
                 "owner": "open-mmlab",
                 "repo": "mmengine",
-                "stars": 1493
+                "stars": 1493,
+                "topics": [
+                  "ai",
+                  "computer-vision",
+                  "deep-learning",
+                  "machine-learning",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             },
@@ -2671,12 +4062,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example models using DeepSpeed",
+                "homepage": null,
                 "id": 237085793,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T05:14:10Z",
+                "open_issues": 325,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeedExamples",
-                "stars": 6841
+                "stars": 6841,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
             }
@@ -2690,15 +4086,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:11:21.734Z",
+    "last_updated": "2026-08-29T04:43:41.842Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Multimodal Modeling [Covers MLLM, UMM, and NMM]",
+      "homepage": null,
       "id": 1193748483,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-07T16:18:16Z",
+      "open_issues": 3,
       "owner": "OpenEnvision",
       "repo": "Awesome-Multimodal-Modeling",
-      "stars": 541
+      "stars": 541,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "mllm",
+        "multimodal",
+        "nmm",
+        "umm",
+        "vlm"
+      ]
     },
     "original_repository_sha": "6dd0cc6e7ca96d2dca62e60f81babbd5ce061fd1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Modeling",
