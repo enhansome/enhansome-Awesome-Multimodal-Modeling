@@ -9,6 +9,111 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "VideoJev: System One Model for Video Understanding and Interaction",
+                  "description": "arXiv 2026 Paper Code 4B / 35B-A3B; initialized from Qwen3.5-4B / Qwen3.6-35B-A3B, retaining their pretrained ViT, visual projection and language backbone; candidate-scoring heads unify temporal grounding and multiple-choice QA. video QA, temporal grounding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "VideoJev: System One Model for Video Understanding and Interaction",
+                    "homepage": null,
+                    "id": 1409542866,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-18T08:17:17Z",
+                    "open_issues": 2,
+                    "owner": "MCG-NJU",
+                    "repo": "VideoJev",
+                    "stars": 166,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-18T16:50:58.431Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning",
+                  "description": "ICML 2026 Paper Code Qwen2.5-VL-7B (also Qwen3-VL-4B); inherits the pretrained Qwen ViT, visual projector and language backbone; interleaves reasoning with VideoCrop tool calls and learns from SFT plus trajectory-guided RL. long-video reasoning, visual tool use",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICML 2026] Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning",
+                    "homepage": null,
+                    "id": 1147599141,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-07-02T14:05:09Z",
+                    "open_issues": 7,
+                    "owner": "MCG-NJU",
+                    "repo": "Video-o3",
+                    "stars": 128,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-18T16:50:58.431Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
+                  "description": "arXiv 2026 Paper Code 4B; I3D-ViT initialized from image-pretrained MoonViT, with a lightweight projector and Qwen3-4B text backbone; spatiotemporal visual compression supports generalist offline and proactive streaming understanding. video understanding, temporal grounding, proactive streaming",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "VideoChat3: a generalist video MLLM built for fine-grained motion, long-form reasoning, temporal grounding, and online proactive response.",
+                    "homepage": null,
+                    "id": 1290513696,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-02T07:35:21Z",
+                    "open_issues": 3,
+                    "owner": "MCG-NJU",
+                    "repo": "VideoChat3",
+                    "stars": 350,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-18T16:50:58.431Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs",
+                  "description": "arXiv 2026 Paper Code 2B / 4B / 8B; inherits the pretrained Qwen3-VL ViT, visual projector and language backbones; verified SFT and temporal-grounding GRPO adapt them to generalist interval localization. video temporal grounding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs",
+                    "homepage": null,
+                    "id": 1302170043,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-02T07:27:17Z",
+                    "open_issues": 0,
+                    "owner": "MCG-NJU",
+                    "repo": "TimeLens2",
+                    "stars": 145,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-18T16:50:58.431Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+                  "description": "arXiv 2026 Paper Code 4B; initialized from Qwen3-VL-4B-Instruct with its pretrained vision encoder frozen and the multimodal projector and language model fine-tuned; hierarchical caption memory and control states support proactive streaming interaction. streaming video understanding, memory, proactive response",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+                    "homepage": null,
+                    "id": 1397885809,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-14T16:22:17Z",
+                    "open_issues": 3,
+                    "owner": "MCG-NJU",
+                    "repo": "OneStreamer",
+                    "stars": 227,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-18T16:50:58.431Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "LLaDA-UI",
                   "description": "Model release 2026 Code HF SigLIP-initialized native-resolution ViT connects to LLaDA2.0-mini-base through spatial 4-to-1 feature grouping and a two-layer MLP; block-wise diffusion generates text reasoning and GUI actions. Code and weights are available; checkpoint license is unspecified in the model card as of 2026-09-15 screenshot understanding, GUI grounding, mobile/desktop/web agents",
                   "children": [],
@@ -40,11 +145,11 @@
                     "id": 155220641,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-17T15:04:32Z",
-                    "open_issues": 2317,
+                    "last_commit": "2026-10-18T04:14:43Z",
+                    "open_issues": 2329,
                     "owner": "huggingface",
                     "repo": "transformers",
-                    "stars": 167789,
+                    "stars": 167814,
                     "topics": [
                       "audio",
                       "deep-learning",
@@ -81,11 +186,11 @@
                     "id": 155220641,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-17T15:04:32Z",
-                    "open_issues": 2317,
+                    "last_commit": "2026-10-18T04:14:43Z",
+                    "open_issues": 2329,
                     "owner": "huggingface",
                     "repo": "transformers",
-                    "stars": 167789,
+                    "stars": 167814,
                     "topics": [
                       "audio",
                       "deep-learning",
@@ -122,11 +227,11 @@
                     "id": 155220641,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-17T15:04:32Z",
-                    "open_issues": 2317,
+                    "last_commit": "2026-10-18T04:14:43Z",
+                    "open_issues": 2329,
                     "owner": "huggingface",
                     "repo": "transformers",
-                    "stars": 167789,
+                    "stars": 167814,
                     "topics": [
                       "audio",
                       "deep-learning",
@@ -164,10 +269,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-16T15:13:57Z",
-                    "open_issues": 62,
+                    "open_issues": 63,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26825,
+                    "stars": 26845,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -189,7 +294,7 @@
                     "id": 1058015331,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-17T03:19:13Z",
+                    "last_commit": "2026-10-18T03:23:37Z",
                     "open_issues": 64,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "LLaVA-OneVision-2",
@@ -218,10 +323,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T03:31:50Z",
-                    "open_issues": 248,
+                    "open_issues": 250,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleOCR",
-                    "stars": 91276,
+                    "stars": 91313,
                     "topics": [
                       "ai4science",
                       "chineseocr",
@@ -256,7 +361,7 @@
                     "open_issues": 36,
                     "owner": "allenai",
                     "repo": "molmo",
-                    "stars": 939,
+                    "stars": 940,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
@@ -277,7 +382,7 @@
                     "open_issues": 231,
                     "owner": "Ucas-HaoranWei",
                     "repo": "GOT-OCR2.0",
-                    "stars": 8224,
+                    "stars": 8223,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
@@ -316,10 +421,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-16T15:13:57Z",
-                    "open_issues": 62,
+                    "open_issues": 63,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 26825,
+                    "stars": 26845,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -345,7 +450,7 @@
                     "open_issues": 122,
                     "owner": "deepseek-ai",
                     "repo": "DeepSeek-VL2",
-                    "stars": 5380,
+                    "stars": 5381,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
@@ -366,7 +471,7 @@
                     "open_issues": 48,
                     "owner": "cambrian-mllm",
                     "repo": "cambrian",
-                    "stars": 2010,
+                    "stars": 2011,
                     "topics": [
                       "chatbot",
                       "clip",
@@ -398,7 +503,7 @@
                     "open_issues": 149,
                     "owner": "InternLM",
                     "repo": "InternLM-XComposer",
-                    "stars": 2927,
+                    "stars": 2928,
                     "topics": [
                       "chatgpt",
                       "foundation",
@@ -500,7 +605,7 @@
                     "open_issues": 20,
                     "owner": "Yuliang-Liu",
                     "repo": "Monkey",
-                    "stars": 1954,
+                    "stars": 1955,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
@@ -662,7 +767,7 @@
                     "open_issues": 8,
                     "owner": "apple-aiml-research",
                     "repo": "ml-ferret",
-                    "stars": 8652,
+                    "stars": 8653,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
@@ -683,7 +788,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25070,
+                    "stars": 25072,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -739,7 +844,7 @@
                     "open_issues": 9,
                     "owner": "InternRobotics",
                     "repo": "PointLLM",
-                    "stars": 1059,
+                    "stars": 1058,
                     "topics": [
                       "3d",
                       "chatbot",
@@ -773,7 +878,7 @@
                     "open_issues": 115,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2687,
+                    "stars": 2688,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -935,7 +1040,7 @@
                     "open_issues": 22,
                     "owner": "open-mmlab",
                     "repo": "Multimodal-GPT",
-                    "stars": 1512,
+                    "stars": 1511,
                     "topics": [
                       "flamingo",
                       "gpt",
@@ -1006,7 +1111,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25070,
+                    "stars": 25072,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -1075,10 +1180,10 @@
                     "language": "Jupyter Notebook",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-18T09:59:39Z",
-                    "open_issues": 500,
+                    "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11258,
+                    "stars": 11255,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -1111,7 +1216,7 @@
                     "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3361,
+                    "stars": 3360,
                     "topics": [
                       "big-model",
                       "captioning-videos",
@@ -1146,7 +1251,7 @@
                     "open_issues": 101,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
-                    "stars": 2540,
+                    "stars": 2539,
                     "topics": [
                       "alpaca",
                       "chatbot",
@@ -1188,7 +1293,7 @@
                     "open_issues": 375,
                     "owner": "Vision-CAIR",
                     "repo": "MiniGPT-4",
-                    "stars": 25587,
+                    "stars": 25585,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
@@ -1206,10 +1311,10 @@
                     "language": "Jupyter Notebook",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-18T09:59:39Z",
-                    "open_issues": 500,
+                    "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11258,
+                    "stars": 11255,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -1388,7 +1493,7 @@
                     "open_issues": 101,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
-                    "stars": 2540,
+                    "stars": 2539,
                     "topics": [
                       "alpaca",
                       "chatbot",
@@ -1430,7 +1535,7 @@
                     "open_issues": 73,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-DocOwl",
-                    "stars": 2408,
+                    "stars": 2407,
                     "topics": [
                       "chart-understanding",
                       "document-understanding",
@@ -1496,10 +1601,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T15:13:57Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26825,
+                "stars": 26845,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -1521,11 +1626,11 @@
                 "id": 949546994,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T13:52:07Z",
-                "open_issues": 1307,
+                "last_commit": "2026-10-18T16:21:56Z",
+                "open_issues": 1309,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
-                "stars": 2069,
+                "stars": 2072,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
@@ -1681,7 +1786,7 @@
                 "open_issues": 6,
                 "owner": "QwenLM",
                 "repo": "Qwen3-Omni",
-                "stars": 4060,
+                "stars": 4061,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
@@ -1702,7 +1807,7 @@
                 "open_issues": 224,
                 "owner": "QwenLM",
                 "repo": "Qwen2.5-Omni",
-                "stars": 4082,
+                "stars": 4084,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
@@ -1720,10 +1825,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T15:13:57Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26825,
+                "stars": 26845,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -2473,7 +2578,7 @@
                         "open_issues": 239,
                         "owner": "QwenLM",
                         "repo": "Qwen-Image",
-                        "stars": 8407,
+                        "stars": 8408,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
@@ -2985,7 +3090,7 @@
                         "open_issues": 181,
                         "owner": "deepseek-ai",
                         "repo": "Janus",
-                        "stars": 17757,
+                        "stars": 17756,
                         "topics": [
                           "any-to-any",
                           "foundation-models",
@@ -3013,7 +3118,7 @@
                         "open_issues": 181,
                         "owner": "deepseek-ai",
                         "repo": "Janus",
-                        "stars": 17757,
+                        "stars": 17756,
                         "topics": [
                           "any-to-any",
                           "foundation-models",
@@ -3386,7 +3491,7 @@
                         "open_issues": 155,
                         "owner": "ByteDance-Seed",
                         "repo": "Bagel",
-                        "stars": 6198,
+                        "stars": 6199,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
@@ -3466,7 +3571,7 @@
                 "open_issues": 6,
                 "owner": "QwenLM",
                 "repo": "Qwen3-Omni",
-                "stars": 4060,
+                "stars": 4061,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
@@ -3550,7 +3655,7 @@
                 "open_issues": 81,
                 "owner": "NExT-GPT",
                 "repo": "NExT-GPT",
-                "stars": 3634,
+                "stars": 3635,
                 "topics": [
                   "chatgpt",
                   "foundation-models",
@@ -3644,7 +3749,7 @@
                 "open_issues": 9,
                 "owner": "QwenLM",
                 "repo": "Qwen3.8",
-                "stars": 4289,
+                "stars": 4293,
                 "topics": []
               },
               "first_seen": "2026-09-14T18:50:56.000Z"
@@ -3872,7 +3977,7 @@
                 "id": 1058015331,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T03:19:13Z",
+                "last_commit": "2026-10-18T03:23:37Z",
                 "open_issues": 64,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "LLaVA-OneVision-2",
@@ -3978,7 +4083,7 @@
                 "open_issues": 118,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18057,
+                "stars": 18055,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -4214,10 +4319,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-17T13:34:44Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "lmms-eval",
-                "stars": 4453,
+                "stars": 4456,
                 "topics": [
                   "agi",
                   "audio-evaluation",
@@ -4247,10 +4352,10 @@
                 "language": "Jupyter Notebook",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-18T09:59:39Z",
-                "open_issues": 500,
+                "open_issues": 499,
                 "owner": "salesforce",
                 "repo": "LAVIS",
-                "stars": 11258,
+                "stars": 11255,
                 "topics": [
                   "deep-learning",
                   "deep-learning-library",
@@ -4309,10 +4414,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-17T09:18:15Z",
-                "open_issues": 405,
+                "open_issues": 406,
                 "owner": "InternLM",
                 "repo": "xtuner",
-                "stars": 5211,
+                "stars": 5212,
                 "topics": [
                   "agent",
                   "deepseek-v3",
@@ -4342,10 +4447,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T07:29:23Z",
-                "open_issues": 1193,
+                "open_issues": 1192,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75537,
+                "stars": 75561,
                 "topics": [
                   "agent",
                   "ai",
@@ -4387,7 +4492,7 @@
                 "open_issues": 270,
                 "owner": "open-mmlab",
                 "repo": "mmengine",
-                "stars": 1500,
+                "stars": 1501,
                 "topics": [
                   "ai",
                   "computer-vision",
@@ -4430,7 +4535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:37:59.816Z",
+    "last_updated": "2026-10-18T16:50:58.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Multimodal Modeling [Covers MLLM, UMM, and NMM]",
@@ -4438,8 +4543,8 @@
       "id": 1193748483,
       "language": "JavaScript",
       "license": null,
-      "last_commit": "2026-09-24T09:41:53Z",
-      "open_issues": 6,
+      "last_commit": "2026-10-18T16:03:44Z",
+      "open_issues": 4,
       "owner": "OpenEnvision",
       "repo": "Awesome-Multimodal-Modeling",
       "stars": 547,
@@ -4453,7 +4558,7 @@
         "vlm"
       ]
     },
-    "original_repository_sha": "e83d3b3ce1e01ebf5dac9ee0dc9fc6687d9fb8f3",
+    "original_repository_sha": "604899ef04833d02933b198360e1a8ba9d3daafc",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Modeling",
     "enhanced_repository_description": null,
     "title": "Awesome Multimodal Modeling with stars"
