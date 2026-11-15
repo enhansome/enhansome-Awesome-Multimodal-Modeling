@@ -1,12 +1,352 @@
 {
   "items": [
     {
+      "description": "In this section: 2.1 Multimodal Representations & Alignment · 2.2 Multimodal Pretraining\nFoundational work on alignment, fusion, retrieval, captioning, and multimodal pretraining, plus recent systems that build on these representation-learning approaches.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking",
+                  "description": "arXiv 2026-01-08 Paper Code Embedding Reranker Adapts Qwen3-VL into 2B and 8B multimodal embedding and reranking models. The bi-encoder indexes text, images, videos, and mixed inputs for retrieval. The cross-encoder scores a query and candidate together for ranking. multimodal embeddings, retrieval, reranking",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1130112342,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-06-23T10:39:17Z",
+                    "open_issues": 56,
+                    "owner": "QwenLM",
+                    "repo": "Qwen3-VL-Embedding",
+                    "stars": 1432,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "UniT: Multimodal Multitask Learning with a Unified Transformer",
+                  "description": "ICCV 2021 Paper Proceedings Code First public: 2021-02-22. Modality-specific encoders feed a shared decoder and task-specific prediction heads. Joint end-to-end supervision covers seven tasks across eight datasets. multimodal multitask learning, object detection, natural language understanding, visual reasoning",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)",
+                    "homepage": "https://mmf.sh/",
+                    "id": 138831170,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-06T20:36:42Z",
+                    "open_issues": 150,
+                    "owner": "facebookresearch",
+                    "repo": "mmf",
+                    "stars": 5633,
+                    "topics": [
+                      "captioning",
+                      "deep-learning",
+                      "dialog",
+                      "hateful-memes",
+                      "multi-tasking",
+                      "multimodal",
+                      "pretrained-models",
+                      "pytorch",
+                      "textvqa",
+                      "vqa"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Multimodal Representations"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment",
+                  "description": "ICLR 2024 Paper Proceedings Code First public: 2023-10-03. Aligns separate image, video, infrared, depth and audio encoders with a frozen text encoder. VIDAL-10M provides paired language supervision for video, infrared, depth and audio. cross-modal alignment, retrieval, zero-shot classification",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "【ICLR 2024🔥】 Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment",
+                    "homepage": "https://arxiv.org/abs/2310.01852",
+                    "id": 699285749,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2024-03-25T12:28:38Z",
+                    "open_issues": 34,
+                    "owner": "PKU-YuanGroup",
+                    "repo": "LanguageBind",
+                    "stars": 888,
+                    "topics": [
+                      "language-central",
+                      "multi-modal",
+                      "pretraining",
+                      "zero-shot"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ImageBind: One Embedding Space To Bind Them All",
+                  "description": "CVPR 2023 Paper Proceedings Code First public: 2023-05-09. Uses images as the shared anchor for aligning text, audio, depth, thermal, and inertial data, enabling retrieval between modalities that lack direct pairings. The official repository links the pretrained checkpoint. cross-modal alignment, retrieval, zero-shot classification",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "ImageBind One Embedding Space to Bind Them All",
+                    "homepage": null,
+                    "id": 618029110,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2025-11-21T21:48:14Z",
+                    "open_issues": 92,
+                    "owner": "facebookresearch",
+                    "repo": "ImageBind",
+                    "stars": 9082,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CLIP: Learning Transferable Visual Models From Natural Language Supervision",
+                  "description": "ICML 2021 Paper Proceedings Announcement Code First public: 2021-01-05. Contrastively trains separate image and text encoders on 400M image–text pairs. The image tower uses a ResNet or ViT. Text prompts provide class embeddings for zero-shot transfer. image–text alignment, zero-shot classification, retrieval",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+                    "homepage": null,
+                    "id": 321960447,
+                    "language": "Jupyter Notebook",
+                    "license": "MIT",
+                    "last_commit": "2026-03-25T18:46:40Z",
+                    "open_issues": 274,
+                    "owner": "openai",
+                    "repo": "CLIP",
+                    "stars": 34611,
+                    "topics": [
+                      "deep-learning",
+                      "machine-learning"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Multimodal Alignment"
+            }
+          ],
+          "description": "Subtopics: Multimodal Representations · Multimodal Fusion · Multimodal Alignment",
+          "node_type": "group",
+          "title": "2.1 Multimodal Representations & Alignment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Meta CLIP 2: A Worldwide Scaling Recipe",
+              "description": "NeurIPS 2025 Paper Proceedings Code First public: 2025-07-29. Scales image–text contrastive pretraining worldwide using per-language curation and joint scaling of model capacity and seen pairs. Code and checkpoints are available. multilingual image–text alignment, zero-shot classification and retrieval",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NeurIPS 2025 Spotlight; ICLR2024 Spotlight; CVPR 2024; EMNLP 2024",
+                "homepage": null,
+                "id": 697602443,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-11T20:09:16Z",
+                "open_issues": 5,
+                "owner": "facebookresearch",
+                "repo": "MetaCLIP",
+                "stars": 1856,
+                "topics": []
+              },
+              "first_seen": "2026-11-15T19:26:54.941Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features",
+              "description": "arXiv 2025-02-20 Paper Code & weights Extends sigmoid image–text alignment with captioning, self-distillation, masked prediction, and online data curation. Releases multiple encoder scales, including variants that handle varying aspect ratios and resolutions. multilingual image–text embeddings, retrieval, dense prediction, localization",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.",
+                "homepage": null,
+                "id": 477682941,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2025-05-19T13:55:52Z",
+                "open_issues": 60,
+                "owner": "google-research",
+                "repo": "big_vision",
+                "stars": 3573,
+                "topics": []
+              },
+              "first_seen": "2026-11-15T19:26:54.941Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SigLIP: Sigmoid Loss for Language Image Pre-Training",
+              "description": "ICCV 2023 Paper Proceedings Code Model First public: 2023-03-27. Trains image and text encoders with a pairwise sigmoid objective. Each pair contributes an independent matching loss, removing the need to normalize over all pairwise similarities. The authors also evaluate a locked-image tuning variant. image–text alignment, zero-shot classification, retrieval",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.",
+                "homepage": null,
+                "id": 477682941,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2025-05-19T13:55:52Z",
+                "open_issues": 60,
+                "owner": "google-research",
+                "repo": "big_vision",
+                "stars": 3573,
+                "topics": []
+              },
+              "first_seen": "2026-11-15T19:26:54.941Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2.2 Multimodal Pretraining"
+        }
+      ],
+      "title": "2. Traditional Multimodal Models"
+    },
+    {
       "description": "In this section: 3.1 Taxonomy Based on Vision Adapter · 3.2 Omni MLLMs\nModels that connect a pretrained visual encoder / abstractor to a pretrained LLM. Primarily text-output understanding and reasoning systems, defined by inherited pretrained unimodal backbones rather than multimodal pretraining from scratch.",
       "items": [
         {
           "children": [
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "SenseNova-Loop-9B-Preview",
+                  "description": "Model release 2026-10-30 Announcement Model Implementation The released implementation uses the Qwen3.5 vision path with 2×2 patch merging and MLP projection. The roughly 9B-parameter decoder runs a shared 24-layer block twice with two-stream manifold-constrained hyper-connections. It accepts text and images and returns text. Apache-2.0 weights are available. The model card documents training sequences up to 256K tokens and lists the technical report as pending. Checkpoint initialization is unspecified. document understanding, long-context reasoning, coding, tool use",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1437890793,
+                    "language": null,
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-02T15:43:48Z",
+                    "open_issues": 0,
+                    "owner": "OpenSenseNova",
+                    "repo": "SenseNova-Loop",
+                    "stars": 111,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses",
+                  "description": "arXiv 2026-10-29 Paper Code HF Starts from an intermediate 4B Mage-VL checkpoint with the Mage-ViT/MLP/Qwen3 stack. A five-stage mid-training, SFT and online RL curriculum teaches the model to switch between screenshot-grounded GUI actions and shell execution. Code and Apache-2.0 weights available as of 2026-11-15. visual grounding, computer use, GUI and terminal tool use",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1269879658,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-02T16:02:14Z",
+                    "open_issues": 25,
+                    "owner": "microsoft",
+                    "repo": "Mage",
+                    "stars": 1784,
+                    "topics": [
+                      "computer-use",
+                      "computer-use-agent",
+                      "flow-matching",
+                      "gui-agent",
+                      "image-editing",
+                      "microsoft",
+                      "multimodal",
+                      "osworld",
+                      "reinforcement-learning",
+                      "streaming-video",
+                      "text-to-image",
+                      "video-understanding",
+                      "vision-language-model"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Unlimited OCR Works 2",
+                  "description": "arXiv 2026-10-29 Paper Code HF Architecture First public: 2026-10-27 (model and weights). The paper was submitted on 2026-10-29. The implementation uses SAM/CLIP-style visual components and a linear projector into a DeepSeek-V2-style decoder. Page-aware sparse reference sliding-window attention limits which visual tokens the decoder consults during multi-page transcription. Inference code and MIT-licensed weights are available. OCR, ultra-long document parsing, structured transcription",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+                    "homepage": null,
+                    "id": 1273138090,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-09T07:52:10Z",
+                    "open_issues": 95,
+                    "owner": "baidu",
+                    "repo": "Unlimited-OCR",
+                    "stars": 31235,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
+                  "description": "arXiv 2026-10-22 Paper Code 4B 2B Retains the Qwen3-VL vision encoder and input projector. Predicts coordinate tokens autoregressively and sends special object-token states, boxes and ViT features to a 9.6M-parameter decoder for masks and alpha mattes. Inference and evaluation code plus 2B/4B checkpoints available. visual grounding, detection, pointing, OCR localization, referring segmentation, alpha matting",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "WeVisOne-VL is a powerful VLM by the WeChat Vision Team at Tencent, unifying object-level and pixel-level perception from points and boxes to masks and alpha mattes.",
+                    "homepage": null,
+                    "id": 1429489373,
+                    "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-25T10:17:41Z",
+                    "open_issues": 8,
+                    "owner": "Tencent",
+                    "repo": "WeVisOne-VL",
+                    "stars": 1192,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Xiaomi-Lens-0 Technical Report",
+                  "description": "arXiv 2026-10-16 Paper Code HF Extends Qwen3.5-4B with a lightweight output decoder that turns language-model mask-token states and pre-merger ViT patches into region masks. The visual input path retains spatial merging and projection. Inference code, Apache-2.0 weights and LensBench data available as of 2026-11-15. referring expression comprehension, visual grounding, reasoning segmentation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[Technical Report] Locate, Segment, and Reason.",
+                    "homepage": "https://seerray-lab.github.io/Xiaomi-Lens-0/",
+                    "id": 1420804714,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-28T09:39:04Z",
+                    "open_issues": 7,
+                    "owner": "SeerRay-Lab",
+                    "repo": "Xiaomi-Lens-0",
+                    "stars": 110,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
                 {
                   "node_type": "item",
                   "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
@@ -40,11 +380,11 @@
                     "id": 155220641,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-14T17:56:51Z",
-                    "open_issues": 1135,
+                    "last_commit": "2026-11-15T19:22:59Z",
+                    "open_issues": 1150,
                     "owner": "huggingface",
                     "repo": "transformers",
-                    "stars": 168968,
+                    "stars": 168994,
                     "topics": [
                       "audio",
                       "deep-learning",
@@ -82,10 +422,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T03:31:50Z",
-                    "open_issues": 265,
+                    "open_issues": 267,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleOCR",
-                    "stars": 92701,
+                    "stars": 92718,
                     "topics": [
                       "ai4science",
                       "chineseocr",
@@ -117,10 +457,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T03:31:50Z",
-                    "open_issues": 265,
+                    "open_issues": 267,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleOCR",
-                    "stars": 92701,
+                    "stars": 92718,
                     "topics": [
                       "ai4science",
                       "chineseocr",
@@ -155,7 +495,7 @@
                     "open_issues": 14,
                     "owner": "zai-org",
                     "repo": "GLM-V",
-                    "stars": 2405,
+                    "stars": 2406,
                     "topics": [
                       "image2text",
                       "reasoning",
@@ -219,11 +559,11 @@
                     "id": 1290513696,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-02T07:35:21Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-11-15T00:58:10Z",
+                    "open_issues": 3,
                     "owner": "MCG-NJU",
                     "repo": "VideoChat3",
-                    "stars": 362,
+                    "stars": 363,
                     "topics": []
                   },
                   "first_seen": "2026-10-18T16:50:58.431Z"
@@ -303,11 +643,11 @@
                     "id": 155220641,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-14T17:56:51Z",
-                    "open_issues": 1135,
+                    "last_commit": "2026-11-15T19:22:59Z",
+                    "open_issues": 1150,
                     "owner": "huggingface",
                     "repo": "transformers",
-                    "stars": 168968,
+                    "stars": 168994,
                     "topics": [
                       "audio",
                       "deep-learning",
@@ -344,11 +684,11 @@
                     "id": 155220641,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-14T17:56:51Z",
-                    "open_issues": 1135,
+                    "last_commit": "2026-11-15T19:22:59Z",
+                    "open_issues": 1150,
                     "owner": "huggingface",
                     "repo": "transformers",
-                    "stars": 168968,
+                    "stars": 168994,
                     "topics": [
                       "audio",
                       "deep-learning",
@@ -385,11 +725,11 @@
                     "id": 155220641,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-14T17:56:51Z",
-                    "open_issues": 1135,
+                    "last_commit": "2026-11-15T19:22:59Z",
+                    "open_issues": 1150,
                     "owner": "huggingface",
                     "repo": "transformers",
-                    "stars": 168968,
+                    "stars": 168994,
                     "topics": [
                       "audio",
                       "deep-learning",
@@ -430,7 +770,7 @@
                     "open_issues": 66,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 27150,
+                    "stars": 27151,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -481,10 +821,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T03:31:50Z",
-                    "open_issues": 265,
+                    "open_issues": 267,
                     "owner": "PaddlePaddle",
                     "repo": "PaddleOCR",
-                    "stars": 92701,
+                    "stars": 92718,
                     "topics": [
                       "ai4science",
                       "chineseocr",
@@ -582,7 +922,7 @@
                     "open_issues": 66,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 27150,
+                    "stars": 27151,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -608,7 +948,7 @@
                     "open_issues": 123,
                     "owner": "deepseek-ai",
                     "repo": "DeepSeek-VL2",
-                    "stars": 5405,
+                    "stars": 5406,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
@@ -699,7 +1039,7 @@
                     "open_issues": 318,
                     "owner": "OpenGVLab",
                     "repo": "InternVL",
-                    "stars": 10168,
+                    "stars": 10170,
                     "topics": [
                       "gpt",
                       "gpt-4o",
@@ -763,7 +1103,7 @@
                     "open_issues": 20,
                     "owner": "Yuliang-Liu",
                     "repo": "Monkey",
-                    "stars": 1954,
+                    "stars": 1955,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
@@ -873,7 +1213,7 @@
                     "open_issues": 126,
                     "owner": "PKU-YuanGroup",
                     "repo": "Video-LLaVA",
-                    "stars": 3509,
+                    "stars": 3510,
                     "topics": [
                       "instruction-tuning",
                       "large-vision-language-model",
@@ -946,7 +1286,7 @@
                     "open_issues": 1140,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25078,
+                    "stars": 25077,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -1002,7 +1342,7 @@
                     "open_issues": 9,
                     "owner": "InternRobotics",
                     "repo": "PointLLM",
-                    "stars": 1064,
+                    "stars": 1065,
                     "topics": [
                       "3d",
                       "chatbot",
@@ -1131,7 +1471,7 @@
                     "open_issues": 109,
                     "owner": "microsoft",
                     "repo": "LLaVA-Med",
-                    "stars": 2239,
+                    "stars": 2240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
@@ -1269,7 +1609,7 @@
                     "open_issues": 1140,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25078,
+                    "stars": 25077,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -1409,7 +1749,7 @@
                     "open_issues": 101,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
-                    "stars": 2538,
+                    "stars": 2539,
                     "topics": [
                       "alpaca",
                       "chatbot",
@@ -1451,7 +1791,7 @@
                     "open_issues": 375,
                     "owner": "Vision-CAIR",
                     "repo": "MiniGPT-4",
-                    "stars": 25559,
+                    "stars": 25558,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
@@ -1509,7 +1849,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-21T03:27:00Z",
-                    "open_issues": 691,
+                    "open_issues": 692,
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22242,
@@ -1551,7 +1891,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-21T03:27:00Z",
-                    "open_issues": 691,
+                    "open_issues": 692,
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22242,
@@ -1589,6 +1929,31 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "MiniCPM-OCR 1.0",
+                  "description": "Model release 2026-10-27 Code HF Architecture OpenBMB's 1.3B OCR model is adapted from MiniCPM-V 4.6. It uses SigLIP, a window-attention merger and projection into Qwen3.5. The SDK combines region recognition with a separate layout model for full-page parsing. Inference SDK and Apache-2.0 weights available. bilingual OCR, document parsing, table and formula recognition",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Fast, accurate OCR with correctness assessment.",
+                    "homepage": null,
+                    "id": 1435761182,
+                    "language": "TypeScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-13T10:13:34Z",
+                    "open_issues": 4,
+                    "owner": "OpenBMB",
+                    "repo": "MiniCPM-OCR",
+                    "stars": 939,
+                    "topics": [
+                      "image2text",
+                      "minicpm-v",
+                      "ocr"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "MiniCPM-V 4.7",
                   "description": "Model release 2026-10-12 Code 35B-A3B 1B Architecture First public: 2026-10-12. 35B-A3B MoE and 1B VLMs combining SigLIP, a window-attention merger, MLP merger and Qwen3.5 language backbone; canvas M-RoPE and mixed 4x/16x compression support image/multi-image/video inputs with text outputs. Code and Apache-2.0 weights available; Lookahead Expert Scheduling supports on-device MoE inference; DSpark heads released 2026-10-15. visual understanding, document/OCR, video understanding, on-device deployment",
                   "children": [],
@@ -1603,7 +1968,7 @@
                     "open_issues": 66,
                     "owner": "OpenBMB",
                     "repo": "MiniCPM-V",
-                    "stars": 27150,
+                    "stars": 27151,
                     "topics": [
                       "minicpm",
                       "minicpm-o",
@@ -1747,7 +2112,7 @@
                     "open_issues": 101,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
-                    "stars": 2538,
+                    "stars": 2539,
                     "topics": [
                       "alpaca",
                       "chatbot",
@@ -1824,7 +2189,7 @@
                     "open_issues": 95,
                     "owner": "NVIDIA-NeMo",
                     "repo": "Nemotron",
-                    "stars": 2342,
+                    "stars": 2346,
                     "topics": [
                       "ai",
                       "fine-tuning",
@@ -1919,7 +2284,7 @@
                 "open_issues": 66,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 27150,
+                "stars": 27151,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -1941,11 +2306,11 @@
                 "id": 949546994,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T18:28:10Z",
+                "last_commit": "2026-11-15T15:00:51Z",
                 "open_issues": 1436,
                 "owner": "NVIDIA-NeMo",
                 "repo": "RL",
-                "stars": 2128,
+                "stars": 2132,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
@@ -2101,7 +2466,7 @@
                 "open_issues": 224,
                 "owner": "QwenLM",
                 "repo": "Qwen2.5-Omni",
-                "stars": 4098,
+                "stars": 4097,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
@@ -2122,7 +2487,7 @@
                 "open_issues": 66,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 27150,
+                "stars": 27151,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -2244,7 +2609,7 @@
                 "open_issues": 34,
                 "owner": "gpt-omni",
                 "repo": "mini-omni2",
-                "stars": 1938,
+                "stars": 1939,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
@@ -2428,7 +2793,7 @@
               "first_seen": "2026-08-28T23:11:21.734Z"
             }
           ],
-          "description": null,
+          "description": "This section covers omni models and speech–language methods relevant to their audio pathways or real-time interaction. Each entry describes the supported modalities.",
           "node_type": "group",
           "title": "3.2 Omni MLLMs"
         }
@@ -2500,7 +2865,7 @@
                     "open_issues": 241,
                     "owner": "QwenLM",
                     "repo": "Qwen-Image",
-                    "stars": 8479,
+                    "stars": 8481,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
@@ -2525,6 +2890,35 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator",
+                  "description": "arXiv 2026-04-09 Paper Project Code Model Continuous video flow and discrete text flow Adapts pretrained Wan2.1 with a newly initialized text expert and shared attention, using continuous flow on video latents and discrete flow on text tokens for bidirectional and joint generation. As of 2026-11-15, inference code and the adaptation checkpoint are public. video understanding, video generation, joint video-text generation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator",
+                    "homepage": null,
+                    "id": 1200241614,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-04-15T03:23:16Z",
+                    "open_issues": 2,
+                    "owner": "Fr0zenCrane",
+                    "repo": "Uni-ViGU",
+                    "stars": 35,
+                    "topics": [
+                      "any-to-any",
+                      "artificial-intelligence",
+                      "computer-vision",
+                      "deep-learning",
+                      "llm",
+                      "multimodal",
+                      "vision-language-pretraining"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
                 },
                 {
                   "node_type": "item",
@@ -2584,7 +2978,7 @@
                     "open_issues": 46,
                     "owner": "Gen-Verse",
                     "repo": "MMaDA",
-                    "stars": 1676,
+                    "stars": 1677,
                     "topics": [
                       "diffusion-models",
                       "llm-reasoning",
@@ -2859,7 +3253,7 @@
                         "open_issues": 66,
                         "owner": "baaivision",
                         "repo": "Emu3",
-                        "stars": 2454,
+                        "stars": 2453,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
@@ -3216,10 +3610,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2025-02-01T07:58:29Z",
-                        "open_issues": 182,
+                        "open_issues": 183,
                         "owner": "deepseek-ai",
                         "repo": "Janus",
-                        "stars": 17766,
+                        "stars": 17769,
                         "topics": [
                           "any-to-any",
                           "foundation-models",
@@ -3244,10 +3638,10 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2025-02-01T07:58:29Z",
-                        "open_issues": 182,
+                        "open_issues": 183,
                         "owner": "deepseek-ai",
                         "repo": "Janus",
-                        "stars": 17766,
+                        "stars": 17769,
                         "topics": [
                           "any-to-any",
                           "foundation-models",
@@ -3266,6 +3660,27 @@
                 },
                 {
                   "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Kelix Technical Report: Closing the Understanding Gap of Discrete Tokens in Unified Multimodal Models",
+                      "description": "arXiv 2026-02-10 Paper Code Model First submitted 2026-02-10 and revised 2026-11-09 (v4). Quantizes pretrained NaViT features into eight shared discrete codes per patch. A unified model predicts successive visual blocks autoregressively, and a diffusion transformer reconstructs images from the predicted visual representation. As of 2026-11-15, inference code and SFT weights are public. image understanding, OCR, image generation",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "Kelix: discrete unified multimodal model (Tokenizer to LLM to DiT) by the OneRec Team",
+                        "homepage": null,
+                        "id": 1305625783,
+                        "language": "Python",
+                        "license": null,
+                        "last_commit": "2026-11-09T07:08:16Z",
+                        "open_issues": 0,
+                        "owner": "Kuaishou-OneRec",
+                        "repo": "Kelix",
+                        "stars": 3,
+                        "topics": []
+                      },
+                      "first_seen": "2026-11-15T19:26:54.941Z"
+                    },
                     {
                       "node_type": "item",
                       "title": "AToken: A Unified Tokenizer for Vision",
@@ -3479,7 +3894,7 @@
                         "open_issues": 3,
                         "owner": "nv-tlabs",
                         "repo": "PixelUMM",
-                        "stars": 418,
+                        "stars": 419,
                         "topics": []
                       },
                       "first_seen": "2026-10-19T19:27:17.786Z"
@@ -3516,6 +3931,27 @@
                 },
                 {
                   "children": [
+                    {
+                      "node_type": "item",
+                      "title": "RynnUnify: Towards Unified Embodied Brain",
+                      "description": "arXiv 2026-10-23 Paper Project Code Models Cosmos 3 Nano-based 16B MoT pairs an 8B autoregressive reasoner with an 8B rectified-flow video generator. Interleaved reasoning and predicted video segments support spatial grounding and long-horizon planning. The world-action extension adds robot control. As of 2026-11-15, code and base, agentic, and world-action checkpoints are public. embodied understanding, spatial grounding, video generation, visual planning, robot control",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "description": "RynnUnify: Towards Unified Embodied Brain",
+                        "homepage": "https://alibaba-damo-academy.github.io/RynnUnify.github.io/",
+                        "id": 1433184170,
+                        "language": "Python",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-10-26T06:28:11Z",
+                        "open_issues": 3,
+                        "owner": "alibaba-damo-academy",
+                        "repo": "RynnUnify",
+                        "stars": 78,
+                        "topics": []
+                      },
+                      "first_seen": "2026-11-15T19:26:54.941Z"
+                    },
                     {
                       "node_type": "item",
                       "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
@@ -3855,7 +4291,7 @@
                         "open_issues": 157,
                         "owner": "ByteDance-Seed",
                         "repo": "Bagel",
-                        "stars": 6217,
+                        "stars": 6218,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T23:11:21.734Z"
@@ -3988,6 +4424,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Cosmos 3: Omnimodal World Models for Physical AI",
+              "description": "arXiv 2026-06-01 Paper Project Code Models Announced 2026-05-31 and first submitted to arXiv 2026-06-01. Dual-tower MoT combines autoregressive reasoning with flow-based image, video, audio, and action generation. Edge uses an internally pretrained backbone that NVIDIA trained from scratch, and Nano/Super initialize from Qwen3-VL checkpoints. As of 2026-11-15, code and released checkpoints are available. visual understanding, image/video/audio generation, world simulation, robot actions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+                "homepage": "https://www.nvidia.com/en-us/ai/cosmos/",
+                "id": 910176789,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-11T05:17:31Z",
+                "open_issues": 14,
+                "owner": "NVIDIA",
+                "repo": "cosmos",
+                "stars": 12369,
+                "topics": []
+              },
+              "first_seen": "2026-11-15T19:26:54.941Z"
+            },
+            {
+              "node_type": "item",
               "title": "Ming-Flash-Omni",
               "description": "arXiv 2025 Paper Code Sparse unified MoE architecture (100B total, 6.1B active) for efficient multimodal perception and generation any-to-any multimodal perception and generation",
               "children": [],
@@ -4117,6 +4574,111 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
+              "description": "arXiv 2026-11-11 Paper Code Models Adapts pretrained FLUX.2 Klein 4B and 9B to produce segmentation and geometry predictions as RGB images, decoded by fixed rules. The adapted models retain image generation and editing. The authors release data preparation, training, and evaluation code under Apache 2.0 and checkpoints under the FLUX Non-Commercial License.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open Vision Banana is a fully open recipe for adapting pretrained image-to-image generators into unified models for visual perception, generation, and editing.",
+                "homepage": null,
+                "id": 1331877350,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-13T13:22:06Z",
+                "open_issues": 2,
+                "owner": "OpenVisionBanana",
+                "repo": "OpenVisionBanana",
+                "stars": 43,
+                "topics": []
+              },
+              "first_seen": "2026-11-15T19:26:54.941Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models (LARC)",
+              "description": "NeurIPS 2026 (author-reported), arXiv 2026-10-30 Paper Project Release status Adapts BAGEL for text-to-image generation with continuous latent reasoning. A supervised curriculum substitutes latent states for textual reasoning tokens, followed by information-gain reinforcement learning. The public repository lists code and data as pending, and downloadable weights remain unverified as of 2026-11-15.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026] Official implementation of Latent Reasoning in Continuous Space for Unified Multimodal Models (LARC)",
+                "homepage": "https://rootyjeon.github.io/larc-umm/",
+                "id": 1421071945,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-11-02T07:18:29Z",
+                "open_issues": 2,
+                "owner": "rootyJeon",
+                "repo": "LARC",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-11-15T19:26:54.941Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SelfThinker: Self-Evolving Reasoning via Reliability-Verified Intrinsic Visual Thoughts",
+              "description": "arXiv 2026-10-29 Paper Code Model A frozen understanding pathway scores self-generated visual thoughts by conditional pointwise mutual information. Selected images supervise generator refinement and provide privileged context for on-policy self-distillation. The released ThinkMorph-based checkpoint answers visual questions in text and skips image synthesis at inference.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1436638088,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-29T06:19:01Z",
+                "open_issues": 0,
+                "owner": "zhangquanchen",
+                "repo": "SelfThinker",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-15T19:26:54.941Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+              "description": "arXiv 2026-10-27 Paper Code Models Factorized Vector Quantization encodes complementary fixed-dimensional views of pretrained vision features with parallel codebooks. The authors find that feature reconstruction error poorly predicts visual understanding and that increasing the useful bit budget improves downstream scores. The public Qwen3-based FVQ-8B evaluates image understanding, including OCR.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1435990578,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-03T05:39:31Z",
+                "open_issues": 1,
+                "owner": "hustvl",
+                "repo": "FVQ",
+                "stars": 35,
+                "topics": []
+              },
+              "first_seen": "2026-11-15T19:26:54.941Z"
+            },
+            {
+              "node_type": "item",
+              "title": "What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models",
+              "description": "arXiv 2026-10-14 Paper Code Probes how generation-side representations encode local attributes and spatial relations. GAFU compresses those features into tokens that the understanding pathway retrieves according to the task. Experiments on BAGEL, Lance, and Janus-Pro compare against fine-tuning on the same data. Training code and configurations are public.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "GAFU: A post-training framework that uses generation-side visual representations to improve fine-grained understanding in unified multimodal models.",
+                "homepage": null,
+                "id": 1418587946,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-11-09T11:16:37Z",
+                "open_issues": 1,
+                "owner": "LRuca",
+                "repo": "GAFU",
+                "stars": 30,
+                "topics": []
+              },
+              "first_seen": "2026-11-15T19:26:54.941Z"
+            },
+            {
+              "node_type": "item",
               "title": "Multimodal Co-Generation With Continuous Bitstream Diffusion (CoBit)",
               "description": "arXiv 2026-10-09 Paper Code A common bitstream-diffusion objective is tested with separately trained image–text, speech–text, and protein sequence–structure models. Denoisers train from scratch, while some experiments use frozen pretrained codecs. The image experiment uses MNIST-Sum; this is not one general-purpose omni checkpoint.",
               "children": [],
@@ -4135,6 +4697,27 @@
                 "topics": []
               },
               "first_seen": "2026-10-19T19:27:17.786Z"
+            },
+            {
+              "node_type": "item",
+              "title": "What Transfers from Text to Vision? Capability Scaling Laws and Transfer Dynamics for VLMs",
+              "description": "EMNLP 2026; arXiv 2026-06-24 Paper Proceedings Code Revised 2026-10-31 (v5). Uses text benchmark scores and fitted transfer and data-scaling rates to predict vision-language performance. Controlled adaptation experiments span over 150 VLMs and 34 pretrained language backbones.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Capability- Driven Multimodal Scaling Law",
+                "homepage": null,
+                "id": 1278227767,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2026-10-30T13:13:09Z",
+                "open_issues": 1,
+                "owner": "wangq-dev",
+                "repo": "CDMScaling",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-15T19:26:54.941Z"
             },
             {
               "node_type": "item",
@@ -4158,7 +4741,7 @@
               "first_seen": "2026-08-28T23:11:21.734Z"
             }
           ],
-          "description": "Recent arXiv papers sharpen the definition of NMMs and identify the main bottlenecks in native multimodal pretraining.",
+          "description": "These studies examine multimodal pretraining, scaling, and how understanding and generation share representations and supervision.",
           "node_type": "group",
           "title": "5.1 Design Analyses & Scaling Laws"
         },
@@ -4180,7 +4763,7 @@
                 "open_issues": 9,
                 "owner": "QwenLM",
                 "repo": "Qwen3.8-Flash-Next",
-                "stars": 477,
+                "stars": 478,
                 "topics": []
               },
               "first_seen": "2026-09-14T18:50:56.000Z"
@@ -4201,7 +4784,28 @@
                 "open_issues": 6,
                 "owner": "QwenLM",
                 "repo": "Qwen3.8",
-                "stars": 4427,
+                "stars": 4434,
+                "topics": []
+              },
+              "first_seen": "2026-09-14T18:50:56.000Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Qwen3.5",
+              "description": "Model release 2026-02-16 Release history Announcement Model card 397B total / 17B active at launch Early-fusion vision–language training uses image and video representations alongside text tokens in the shared backbone. The flagship combines Gated DeltaNet with attention and sparse MoE. The launch weights use Apache 2.0. The model card establishes the fusion topology and leaves the initialization of individual components unspecified. image/video understanding, visual reasoning, coding, tool use",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Qwen3.8 is the large language model series developed by Qwen team, Alibaba Group.",
+                "homepage": "https://qwen.ai",
+                "id": 1054623307,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-17T05:17:40Z",
+                "open_issues": 6,
+                "owner": "QwenLM",
+                "repo": "Qwen3.8",
+                "stars": 4434,
                 "topics": []
               },
               "first_seen": "2026-09-14T18:50:56.000Z"
@@ -4222,7 +4826,7 @@
                 "open_issues": 24,
                 "owner": "OpenSenseNova",
                 "repo": "SenseNova-U1",
-                "stars": 6946,
+                "stars": 6945,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
@@ -4243,7 +4847,7 @@
                 "open_issues": 24,
                 "owner": "OpenSenseNova",
                 "repo": "SenseNova-U1",
-                "stars": 6946,
+                "stars": 6945,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
@@ -4285,7 +4889,7 @@
                 "open_issues": 66,
                 "owner": "baaivision",
                 "repo": "Emu3",
-                "stars": 2454,
+                "stars": 2453,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
@@ -4426,6 +5030,27 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Qwen3.8-Omni: Towards Native Omni-Modal Agents",
+              "description": "arXiv 2026-09-22 Paper Announcement Flash API Realtime API Plugins Live Harness 256K tokens during pretraining; Flash extends to 1M First public: 2026-09-17 (Flash API). Aligns vision, AuT, and Spatial AuT encoders to a frozen Qwen3.8-Next-initialized Thinker before joint multimodal pretraining. The Flash API returns text. Realtime adds a Talker for streaming speech. The open plugins and harness provide external audio/video editing and generation workflows. audiovisual understanding, spatial audio, real-time speech dialogue, multimodal agents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Make any agent harness multimodal-native.",
+                "homepage": null,
+                "id": 1315929647,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-10T11:50:43Z",
+                "open_issues": 19,
+                "owner": "QwenLM",
+                "repo": "Qwen-MM-Plugins",
+                "stars": 3209,
+                "topics": []
+              },
+              "first_seen": "2026-11-15T19:26:54.941Z"
+            },
+            {
+              "node_type": "item",
               "title": "MiniMax-M3",
               "description": "MiniMax 2026 Blog Code ~428B total / ~23B active; 1M context Native multimodal model with MiniMax Sparse Attention (MSA), trained for text, image, and video understanding, long-context coding, agentic workflows, and computer-use tasks native multimodal understanding, video, coding, agentic computer use",
               "children": [],
@@ -4437,7 +5062,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-26T07:05:04Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "MiniMax-AI",
                 "repo": "MiniMax-M3",
                 "stars": 503,
@@ -4446,7 +5071,7 @@
               "first_seen": "2026-08-28T23:11:21.734Z"
             }
           ],
-          "description": "The latest arXiv-native multimodal papers increasingly blur the boundaries between omni understanding, any-to-any generation, world modeling, and RL-enhanced post-training.",
+          "description": "This section covers omni understanding, any-to-any generation, and related native architectures. ERNIE 5.0 is indexed under Early Fusion NMMs.",
           "node_type": "group",
           "title": "5.4 Any-to-Any / Omni NMMs"
         }
@@ -4507,7 +5132,7 @@
                 "open_issues": 119,
                 "owner": "BradyFU",
                 "repo": "Awesome-Multimodal-Large-Language-Models",
-                "stars": 18087,
+                "stars": 18088,
                 "topics": [
                   "chain-of-thought",
                   "in-context-learning",
@@ -4725,7 +5350,7 @@
                 "open_issues": 2,
                 "owner": "AIFrontierLab",
                 "repo": "TorchUMM",
-                "stars": 585,
+                "stars": 586,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:11:21.734Z"
@@ -4742,11 +5367,11 @@
                 "id": 768612800,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T02:53:07Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-15T10:52:40Z",
+                "open_issues": 27,
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "lmms-eval",
-                "stars": 4496,
+                "stars": 4497,
                 "topics": [
                   "agi",
                   "audio-evaluation",
@@ -4838,7 +5463,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-14T15:44:12Z",
-                "open_issues": 422,
+                "open_issues": 423,
                 "owner": "InternLM",
                 "repo": "xtuner",
                 "stars": 5223,
@@ -4871,10 +5496,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T13:16:48Z",
-                "open_issues": 1245,
+                "open_issues": 1248,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 76042,
+                "stars": 76051,
                 "topics": [
                   "agent",
                   "ai",
@@ -4981,6 +5606,48 @@
                     ]
                   },
                   "first_seen": "2026-10-19T19:27:17.786Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?",
+                  "description": "arXiv 2026-03-03 Paper Project Code Data Benchmark First public: 2026-03-03. Seven regimes and 30 subtasks test whether visual generation benefits understanding, including implicit and explicit transformations and multi-step reasoning. The effect of generating before answering varies by task. The authors' evaluation code and dataset files are public as of 2026-11-15. generation-to-understanding evaluation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1171605969,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-04-02T14:13:52Z",
+                    "open_issues": 0,
+                    "owner": "nssmd",
+                    "repo": "UniG2U",
+                    "stars": 25,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "UReason: Benchmarking Reasoning-to-Generation Alignment in Unified Multimodal Models",
+                  "description": "EMNLP 2026 (Outstanding Paper Award) Paper Proceedings Code and data Benchmark First public: 2026-02-09. Tests whether textual reasoning carries over to generated images across 2,000 human-verified examples in code, arithmetic, spatial, attribute, and text tasks. Compares direct generation, generation with reasoning, and generation from a refined prompt alone. The author repository provides the benchmark and evaluation code. reasoning-to-image generation, reasoning transfer",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[EMNLP 2026 Oral & Outstanding Paper Award] UReason: Benchmarking Reasoning-to-Generation Alignment in Unified Multimodal Models ",
+                    "homepage": "https://ureason.github.io/",
+                    "id": 1152600299,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-27T22:11:13Z",
+                    "open_issues": 0,
+                    "owner": "UReason",
+                    "repo": "UReason",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
                 }
               ],
               "description": null,
@@ -4989,6 +5656,79 @@
             },
             {
               "children": [
+                {
+                  "node_type": "item",
+                  "title": "UniWeaver-Bench and UniWeaver-10K",
+                  "description": "arXiv 2026-11-10 Paper Code Benchmark Training data Benchmark Scores completed text-image responses on 120 held-out tasks across 20 families. Criteria include text and visual coverage, writing quality and image-text alignment. The same paper introduces a model-agnostic planning harness and a separate set of 10,000 training trajectories. Code and both datasets are public as of 2026-11-15. interleaved text-image generation evaluation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "UniWeaver: a model-agnostic harness for interleaved text-image generation",
+                    "homepage": "https://poscape.github.io/UniWeaver/",
+                    "id": 1450207234,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-13T07:52:16Z",
+                    "open_issues": 0,
+                    "owner": "Poscape",
+                    "repo": "UniWeaver",
+                    "stars": 0,
+                    "topics": [
+                      "interleaved-generation",
+                      "multimodal"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "IntReal: A Real-World Dataset and Benchmark for Multimodal Interleaved Generation",
+                  "description": "arXiv 2026-10-28 Paper Project Code Training data Benchmark IntReal-100K spans four real-world task categories. Seven metrics evaluate complete interleaved responses and the next image given a fixed text-image context. The repository dates the dataset and leaderboard release to 2026-10-30. Evaluation code is public as of 2026-11-15. interleaved generation, next-image prediction, subject consistency",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "🍽️ This repo is the official implementation of \"IntReal: A Real-World Dataset and Benchmark for Multimodal Interleaved Generation\"",
+                    "homepage": "https://yushaohan.github.io/IntReal/",
+                    "id": 1391700286,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-30T07:18:04Z",
+                    "open_issues": 0,
+                    "owner": "yushaohan",
+                    "repo": "IntReal",
+                    "stars": 11,
+                    "topics": [
+                      "benchmark",
+                      "dataset",
+                      "generation",
+                      "interleaved",
+                      "multimodal",
+                      "unified-multimodal-models"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "IMUG-Bench: Benchmarking Unified Multimodal Models on Interleaved Understanding and Generation",
+                  "description": "arXiv 2026-06-08 Paper Code Data Benchmark First public: 2026-06-08. Uses 3,113 samples and 12,034 turns across spatial, temporal-causal, and hybrid tasks to study interleaved image–text dialogue and exposure bias. Evaluation code, scoring scripts, and benchmark data are public as of 2026-11-15. Author-created benchmark materials use CC BY 4.0. Third-party images retain their source licenses. multi-turn understanding and generation, exposure-bias evaluation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1185168361,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-07-17T04:37:22Z",
+                    "open_issues": 0,
+                    "owner": "ccccEsion",
+                    "repo": "IMUG-Bench",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
                 {
                   "node_type": "item",
                   "title": "UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark",
@@ -5025,6 +5765,117 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "VIGOR: Benchmarking Visual Rationale Correctness in Multimodal Large Language Models",
+                  "description": "NeurIPS 2026 (author-reported), arXiv 2026-11-09 Paper Code Data Benchmark Compares concept-token attention maps against pixel masks for 1,000 images. Covers concepts from low-level properties to scenes and relations. Code and annotations are public as of 2026-11-15. visual rationale grounding, attention diagnostics",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code for \"VIGOR: Benchmarking Visual Rationale Correctness in Multimodal Large Language Models\" (NeurIPS 2026)",
+                    "homepage": null,
+                    "id": 1447229065,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-11-05T16:12:46Z",
+                    "open_issues": 0,
+                    "owner": "deep-real",
+                    "repo": "VIGOR",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "InteractionBench: Measuring Timing, Task Accuracy, Whisper and Volume, and Grounding in Real-Time Voice Systems",
+                  "description": "arXiv 2026-11-02 Paper Code Project Benchmark Uses matched recorded user audio to assess response timing, spoken tasks, whisper and volume control, and grounding in conversations longer than 20 turns. The public repository provides the evaluation harness and examples under Business Source License 1.1. The full recording set is kept separately by the authors. real-time speech interaction, turn-taking, grounded dialogue",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1340192417,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-09-24T05:20:38Z",
+                    "open_issues": 0,
+                    "owner": "avera-labs",
+                    "repo": "InteractionBench",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MarathonDocBench",
+                  "description": "Dataset release 2026-10-27, arXiv 2026-10-29 Paper Code Data ModelScope Benchmark First public: 2026-10-27 (author-announced dataset release). Evaluates 100 documents of 103–300 pages with 205K annotated layout elements, including cross-page text and table continuations. The dataset card lists Apache-2.0 for annotations. Direct download remained unverified as of 2026-11-15. long-document parsing, reading order, cross-page structural fidelity",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+                    "homepage": null,
+                    "id": 1273138090,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-11-09T07:52:10Z",
+                    "open_issues": 95,
+                    "owner": "baidu",
+                    "repo": "Unlimited-OCR",
+                    "stars": 31235,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "EvaOmni: An Evidence-Grounded Benchmark for Audio-Visual Reasoning",
+                  "description": "arXiv 2026-10-20 Paper Project Code Data Benchmark Uses 1,027 human-annotated questions across 392 videos. Scores answer correctness and localization of supporting audio and visual evidence. Authors screen for text-only and unimodal shortcuts. Code and annotations are public as of 2026-11-15. audiovisual reasoning, temporal evidence localization",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "An Evidence-Grounded Benchmark for Audio-Visual Reasoning",
+                    "homepage": "https://xiaoxing2001.github.io/EvaOmni.github.io/",
+                    "id": 1427802570,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-25T14:21:58Z",
+                    "open_issues": 0,
+                    "owner": "VisionXLab",
+                    "repo": "EvaOmni",
+                    "stars": 25,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding",
+                  "description": "arXiv 2026-04-06 Paper Code Data Benchmark Uses 800 videos and 3,200 human-annotated questions to test information aggregation, temporal understanding, and complex reasoning. Grouped scoring measures consistency across four related questions. The authors announced the dataset on 2026-04-07 and specify academic-research-only data terms in the repository. video understanding, temporal reasoning, grouped evaluation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding",
+                    "homepage": "https://video-mme-v2.netlify.app/",
+                    "id": 1200502831,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-08-05T18:17:00Z",
+                    "open_issues": 7,
+                    "owner": "MME-Benchmarks",
+                    "repo": "Video-MME-v2",
+                    "stars": 368,
+                    "topics": [
+                      "large-language-models",
+                      "large-vision-language-models",
+                      "multimodal-large-language-models",
+                      "video",
+                      "video-mme"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "OmniGAIA: Towards Native Omni-Modal AI Agents",
                   "description": "arXiv 2026-02-26 Paper Code Benchmark First public: 2026-02-26. Benchmark for omni-modal agents with multi-hop queries across video, audio and images; includes the separate OmniAtlas tool-using agent baseline. This is an evaluation artifact, not a visual-adapter category. omni-modal agent evaluation",
                   "children": [],
@@ -5043,6 +5894,95 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:11:21.734Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "XModBench: Benchmarking Cross-Modal Capabilities and Consistency in Omni-Language Models",
+                  "description": "ICLR 2026, arXiv 2025-10-16 Paper Proceedings Code Data Benchmark Tests consistency across six directional pairings of text, vision and audio with 60,828 multiple-choice questions across five task families. Code and data are public as of 2026-11-15. cross-modal consistency, modality bias, omni-model evaluation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "XModBench: Benchmarking Cross-Modal Capabilities and Consistency in Omni-Language Models",
+                    "homepage": "https://xingruiwang.github.io/projects/XModBench/",
+                    "id": 1005345050,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-05-19T23:03:01Z",
+                    "open_issues": 0,
+                    "owner": "XingruiWang",
+                    "repo": "XModBench",
+                    "stars": 7,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis",
+                  "description": "CVPR 2025 Paper Proceedings Code Data Benchmark First public: 2024-05-31 (preprint). Evaluates 2,700 human-annotated questions across 900 videos from 11 seconds to one hour. Supports evaluation with visual frames, audio, and subtitles. The authors announced the dataset on 2024-06-03 and specify academic-research-only data terms in the repository. video understanding, long-context reasoning, audiovisual evaluation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "✨✨[CVPR 2025] Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis",
+                    "homepage": null,
+                    "id": 809380023,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2025-12-08T06:31:55Z",
+                    "open_issues": 11,
+                    "owner": "MME-Benchmarks",
+                    "repo": "Video-MME",
+                    "stars": 803,
+                    "topics": [
+                      "large-language-models",
+                      "large-vision-language-models",
+                      "mme",
+                      "multimodal-large-language-models",
+                      "video",
+                      "video-mme"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI",
+                  "description": "CVPR 2024 Paper Proceedings Code Data Benchmark First public: 2023-11-27 (preprint). Tests expert-level multimodal reasoning with 11.5K college-level questions across 30 subjects and image types such as diagrams, charts, and maps. The authors released test answers on 2026-02-12 for local scoring. expert visual reasoning, diagram and chart understanding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "This repo contains evaluation code for the paper \"MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI\"",
+                    "homepage": "https://mmmu-benchmark.github.io/",
+                    "id": 722649798,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-13T07:41:47Z",
+                    "open_issues": 4,
+                    "owner": "MMMU-Benchmark",
+                    "repo": "MMMU",
+                    "stars": 601,
+                    "topics": [
+                      "computer-vision",
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "evaluation",
+                      "foundation-models",
+                      "large-language-models",
+                      "large-multimodal-models",
+                      "llm",
+                      "llms",
+                      "machine-learning",
+                      "multimodal",
+                      "multimodal-deep-learning",
+                      "multimodal-learning",
+                      "multimodality",
+                      "natural-language-processing",
+                      "question-answering",
+                      "stem",
+                      "visual-question-answering"
+                    ]
+                  },
+                  "first_seen": "2026-11-15T19:26:54.941Z"
                 }
               ],
               "description": null,
@@ -5059,7 +5999,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:50:25.827Z",
+    "last_updated": "2026-11-15T19:26:54.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Multimodal Modeling [Covers MLLM, UMM, and NMM]",
@@ -5067,7 +6007,7 @@
       "id": 1193748483,
       "language": "JavaScript",
       "license": null,
-      "last_commit": "2026-10-18T16:58:21Z",
+      "last_commit": "2026-11-15T12:15:30Z",
       "open_issues": 7,
       "owner": "OpenEnvision",
       "repo": "Awesome-Multimodal-Modeling",
@@ -5082,7 +6022,7 @@
         "vlm"
       ]
     },
-    "original_repository_sha": "5749562f7259b330ba07bd910736c885df3fa477",
+    "original_repository_sha": "e8ca89606a131bc55931bd678f8ba704d17c3752",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-Modeling",
     "enhanced_repository_description": null,
     "title": "Awesome Multimodal Modeling with stars"
